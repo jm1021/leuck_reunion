@@ -17,7 +17,7 @@
 | --- | --- | 2pm | Activity | Shasta Lakes | John and Lora |
 | --- | --- | 6pm | Dinner | Slop House | Angela |
 | --- | --- | 7pm | Family Night | Slop House | John and Mel |
-| 6/29 | Thursday | 8am | Breakfast | Slop House | |
+| 6/29 | Thursday | 8am | Breakfast | Slop House | Lisa |
 | --- | --- | 10am | Sports | Field or Court | John and Lora |
 | --- | --- | 1pm | Lunch | Slop House | Lisa |
 | --- | --- | 2pm | Activity | Shasta Lakes | John and Lora |
