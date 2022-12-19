@@ -2,7 +2,7 @@
 
 | Date | Day | Time | Event | Location | Coordinator |
 | --- | --- | --- | --- | --- | --- |
-| 6/26 | Monday | 3pm | Check in | Redding | Frank and Judith |
+| 6/26 | Monday | 3pm | Check in | Shasts Lakes | Frank and Judith |
 | --- | --- | 6pm | Dinner | Slop House | Lisa |
 | --- | --- | 7pm | Leuck Greet | Slop House | Frank and Judith |
 | 6/27 | Tuesday | 8am | Breakfast | Slop House | Lisa |
