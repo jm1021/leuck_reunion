@@ -8,7 +8,7 @@
 | --- | --- | 6pm | Dinner | Dining Room | Lisa |
 | --- | --- | 7pm | Leuck Greet | Dining Room | Frank and Judith |
 | 6/27 | Tuesday | 8am | Breakfast | Dining Room | Lisa |
-| --- | --- | 10am | Volleyball | Field | Johnner |
+| --- | --- | 10am | Volleyball and U15 games | Field and Court | Johnner, Lora, Shay|
 | --- | --- | 1pm | Lunch | Dining Room | Lisa |
 | --- | --- | 2pm | Activity | Swimming Pool Games | Johnner and Lora |
 | --- | --- | 6pm | Dinner | Dining Room | Sherri |
