@@ -17,7 +17,7 @@
 | --- | --- | 8:30am | Breakfast | Dining | Lisa |
 | --- | --- | 10am | Sports | Pool | Johnner |
 | --- | --- | 12pm | Lunch | Dining Room | Lisa |
-| --- | --- | 1pm | Activity | [Lake Shasta Caverns](http://lakeshastacaverns.clickforward.com/group-tours) | Johnner and Lora |
+| --- | --- | 1pm | Activity | [Lake Shasta Caverns](http://lakeshastacaverns.clickforward.com/group-tours) | Johnner |
 | --- | --- | 6pm | Dinner | Dining Room | Angela |
 | --- | --- | 7pm | Family Night | Dining Room | John and Mel |
 | 6/29 | Thursday | 8am | Breakfast | Dining Room | Lisa |
