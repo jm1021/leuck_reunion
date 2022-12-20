@@ -4,7 +4,7 @@
 
 ## Mortensen Family
 ![](/leuck_reunion/images/mortensen_1999.jpg)
-![](/leuck_reunion/images/mortensen_2015.jpg)
+![](/leuck_reunion/images/mortensen_2015.jpeg)
 
 ## Northrop Family
 
