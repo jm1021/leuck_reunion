@@ -12,6 +12,7 @@
 
 
 ## Housing Assignment
+
 | Family | Attending | Assignment | Count | Children |
 | --- | --- | --- | --- | --- |
 | Frank, Judith | yes | Alpine | 2 | none |
