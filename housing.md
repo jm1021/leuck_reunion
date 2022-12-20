@@ -7,4 +7,14 @@
 - Alpine and Birch House
 - Cedar House
 
-> Cooking. You have the option to use our facilities to cook for yourselves. The ranch kitchens are perfect for large group meals and all come equipped with appropriate appliances and utensils. Also, there is an outdoor barbeque!
+> Cooking. On site there are cooking facilities in each house. The Alpine ranch kitchens wo;; be for large group meals and has appliances and utensils. There is an outdoor barbecue!
+
+
+| Family | Attending | Assignment | Count | Children |
+| --- | --- | --- | --- | --- |
+| Frank, Judith | yes | Alpine | 2 | none |
+| Jonner, Lora | yes | ? | 3 | Shay 14 |
+| Trent, Yuri | ? | ? | 5 | Amelie 8, Cruz 6, Javi 1 |
+| Corey | ? | ? | 1 | mone |
+| Tiernan | ? | ? | 1 | mone |
+| Claire | ? | ? | 1 | mone |
