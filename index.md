@@ -33,6 +33,3 @@
 | --- | --- | 7pm | Family Night | Dining Room |John and Mel |
 | 7/1 | Saturday | 8am | Breakfast | Dining Room | Lisa |
 | --- | --- | 10am | Check Out | Travel Home | Your it |
-
-
-![](/leuck_reunion/images/leuck_clan.jpg)
