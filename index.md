@@ -15,7 +15,7 @@
 | --- | --- | 7pm | Family Night | Dining Room | John and Mel |
 | 6/28 | Wednesday | 7:30 | Zumba | Courts | Kira |
 | --- | --- | 8:30am | Breakfast | Dining | Lisa |
-| --- | --- | 10am | Sports | Pool | Johnner |
+| --- | --- | 10am | Sports | Pool Games | Johnner |
 | --- | --- | 12pm | Lunch | Dining Room | Lisa |
 | --- | --- | 1pm | Activity | [Lake Shasta Caverns, 32 minutes travel](http://lakeshastacaverns.clickforward.com/group-tours) | Johnner |
 | --- | --- | 6pm | Dinner | Dining Room | Angela |
