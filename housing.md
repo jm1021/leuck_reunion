@@ -17,7 +17,7 @@
 | --- | --- | --- | --- | --- |
 | Frank, Judith | yes | Alpine | 2 | none |
 | Jonner, Lora | yes | ? | 3 | Shay 14 |
-| Trent, Yuri | ? | ? | 5 | Amelie 8, Cruz 6, Javi 1 |
+| Trent, Yuri | ? | ? | 5 | Amelia 8, Cruz 6, Gavi 1 |
 | Corey | ? | ? | 1 | none |
 | Tiernan | ? | ? | 1 | none |
 | Claire | ? | ? | 1 | none |
