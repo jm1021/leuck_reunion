@@ -1,10 +1,10 @@
 ## Mom and Pop Leuck
 ## Reunion Pictures
-![](/leuck_reunion/images/leuck_clan.jpg)
+![](/images/leuck_clan.jpg)
 
 ## Mortensen Family
-![](/leuck_reunion/images/mortensen_1999.jpg)
-![](/leuck_reunion/images/mortensen_2015.jpeg)
+![](/images/mortensen_1999.jpg)
+![](/images/mortensen_2015.jpeg)
 
 ## Northrop Family
 
