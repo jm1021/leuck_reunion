@@ -16,7 +16,7 @@
 | Family | Attending | Assignment | Count | Children |
 | --- | --- | --- | --- | --- |
 | Frank, Judith | yes | Alpine | 2 | none |
-| Jonner, Lora | yes | ? | 3 | Shay 14 |
+| Johnner, Lora | yes | ? | 3 | Shay 14 |
 | Trent, Yuri | ? | ? | 5 | Amelia 8, Cruz 6, Gavi 1 |
 | Corey | yes | ? | 1 | none |
 | Tiernan | yes | ? | 1 | none |
