@@ -15,13 +15,13 @@
 | --- | --- | 7pm | Family Night | Dining Room | John and Mel |
 | 6/28 | Wednesday | 7:30 | Zumba | Courts | Kira |
 | --- | --- | 8:30am | Breakfast | Dining | Lisa |
-| --- | --- | 10am | Sports | Pool Games | Johnner |
+| --- | --- | 10am | Pool Olympics | Pool and Activity Room | Annalyce, Peyton |
 | --- | --- | 12pm | Lunch | Dining Room | Lisa |
 | --- | --- | 1pm | Activity | [Lake Shasta Caverns, 32 minutes travel](http://lakeshastacaverns.clickforward.com/group-tours) | Johnner |
 | --- | --- | 6pm | Dinner | Dining Room | Angela |
 | --- | --- | 7pm | Family Night | Dining Room | John and Mel |
 | 6/29 | Thursday | 8am | Breakfast | Dining Room | Lisa |
-| --- | --- | 10am | Sports | Court | Johnner |
+| --- | --- | 10am | Field Olympics | Court and Field | Jake, Taylor |
 | --- | --- | 12pm | Lunch | Dining Room | Lisa |
 | --- | --- | 1pm | Activity | [Boating, 25 minutes travel](https://bridgebayhouseboats.com/houseboats/grand-sierra) | Jared |
 | --- | --- | 6pm | Dinner | Dining Room | Jared and Jeremiah |
