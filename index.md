@@ -8,27 +8,29 @@
 | --- | --- | 6pm | Dinner | Dining Room | Lisa |
 | --- | --- | 7pm | Leuck Greet | Dining Room | Frank and Judith |
 | 6/27 | Tuesday | 8am | Breakfast | Dining Room | Lisa |
-| --- | --- | 10am | Sports | Field or Court | Johnner and Lora |
+| --- | --- | 10am | Volleyball | Field | Johnner |
 | --- | --- | 1pm | Lunch | Dining Room | Lisa |
-| --- | --- | 2pm | Activity | Shasta Lakes | Johnner and Lora |
+| --- | --- | 2pm | Activity | Swimming Pool Games | Johnner and Lora |
 | --- | --- | 6pm | Dinner | Dining Room | Sherri |
 | --- | --- | 7pm | Family Night | Dining Room | John and Mel |
-| 6/28 | Wednesday | 8am | Breakfast | Dining Room | Lisa |
-| --- | --- | 10am | Sports | Field or Court | Johnner and Lora |
-| --- | --- | 1pm | Lunch | Dining Room | Lisa |
-| --- | --- | 2pm | Activity | Shasta Lakes | Johnner and Lora |
+| 6/28 | Wednesday | 7:30 | Zumba | Courts | Kira |
+| --- | --- | 8:30am | Breakfast | Dining | Lisa |
+| --- | --- | 10am | Sports | Pool | Johnner |
+| --- | --- | 12pm | Lunch | Dining Room | Lisa |
+| --- | --- | 1pm | Activity | [Lake Shasta Caverns](http://lakeshastacaverns.clickforward.com/group-tours) | Johnner and Lora |
 | --- | --- | 6pm | Dinner | Dining Room | Angela |
 | --- | --- | 7pm | Family Night | Dining Room | John and Mel |
 | 6/29 | Thursday | 8am | Breakfast | Dining Room | Lisa |
-| --- | --- | 10am | Sports | Field or Court | Johnner and Lora |
-| --- | --- | 1pm | Lunch | Dining Room | Lisa |
-| --- | --- | 2pm | Activity | Shasta Lakes | Johnner and Lora |
+| --- | --- | 10am | Sports | Court | Johnner |
+| --- | --- | 12pm | Lunch | Dining Room | Lisa |
+| --- | --- | 1pm | Activity | [House Boat](https://bridgebayhouseboats.com/houseboats/grand-sierra) | Johnner |
 | --- | --- | 6pm | Dinner | Dining Room | Jared and Jeremiah |
 | --- | --- | 7pm | Family Night | Dining Room | John and Mel |
-| 6/30 | Friday | 8am | Breakfast | Dining Room | Lisa |
-| --- | --- | 10am | Sports | Field or Court | Johnner and Lora |
-| --- | --- | 1pm | Lunch | Dining Room | Lisa |
-| --- | --- | 2pm | Activity | Shasta Lakes | Johnner and Lora |
+| 6/30 | Friday | 7:30 | Zumba | Courts | Lisa |
+| --- | --- | 8:30am | Breakfast | Dining | Kira |
+| --- | --- | 10am | Sports | Field or Court | Johnner |
+| --- | --- | 12pm | Lunch | Dining Room | Lisa |
+| --- | --- | 1pm | Activity | [House Boat](https://bridgebayhouseboats.com/houseboats/grand-sierra) | Johnner and Lora |
 | --- | --- | 6pm | Dinner | Dining Room | John |
 | --- | --- | 7pm | Family Night | Dining Room |John and Mel |
 | 7/1 | Saturday | 8am | Breakfast | Dining Room | Lisa |
