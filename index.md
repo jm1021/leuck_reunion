@@ -17,7 +17,7 @@
 | --- | --- | 8:30am | Breakfast | Dining | Lisa |
 | --- | --- | 10am | Pool Olympics | Pool and Activity Room | Annalyce, Peyton |
 | --- | --- | 12pm | Lunch | Dining Room | Lisa |
-| --- | --- | 1pm | Activity | [Lake Shasta Caverns, 32 minutes travel](http://lakeshastacaverns.clickforward.com/group-tours) | Johnner |
+| --- | --- | 1pm | Activity | [Lake Shasta Caverns, 32 minutes travel](http://lakeshastacaverns.clickforward.com/group-tours) | Johnner and Lora|
 | --- | --- | 6pm | Dinner | Dining Room | Angela |
 | --- | --- | 7pm | Family Night | Dining Room | John and Mel |
 | 6/29 | Thursday | 8am | Breakfast | Dining Room | Lisa |
