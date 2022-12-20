@@ -1,4 +1,4 @@
-## Housing Assignments
+## Housing Overview
 > Sleeps 43 people. Verify your housing assignment at th reunion with Jeremiah and Melissa.
  
 > Preview [Homes](https://www.coramranch.com/vacation-home)
@@ -7,9 +7,11 @@
 - Alpine and Birch House
 - Cedar House
 
-> Cooking. On site there are cooking facilities in each house. The Alpine ranch kitchens wo;; be for large group meals and has appliances and utensils. There is an outdoor barbecue!
+## Cooking
+> On site there are cooking facilities in each house. The Alpine ranch kitchens will be for large group meals and has appliances and utensils. There is an outdoor barbecue!
 
 
+## Housing Assignment
 | Family | Attending | Assignment | Count | Children |
 | --- | --- | --- | --- | --- |
 | Frank, Judith | yes | Alpine | 2 | none |
