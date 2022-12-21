@@ -104,7 +104,6 @@ Markdown Format takes entire column
 </div>
 
 ## Schaffer Family
-## Northrop Family
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
@@ -119,7 +118,6 @@ Markdown Format takes entire column
 </div>
 
 ## Englehardt Family
-## Northrop Family
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
@@ -134,7 +132,6 @@ Markdown Format takes entire column
 </div>
 
 ## San Diego Leuck's
-## Northrop Family
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
@@ -149,7 +146,6 @@ Markdown Format takes entire column
 </div>
 
 ## Snohomish Leuck's
-## Northrop Family
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
