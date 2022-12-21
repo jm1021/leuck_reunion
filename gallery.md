@@ -15,14 +15,11 @@
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 500px) {
   .column {
+    height: 200px;
     width: 100%;
   }
 }
 
-.images img {
-  height: 200px;
-  float: left;
-}
 </style>
 
 ## Mom and Pop Leuck
@@ -39,12 +36,6 @@
   <div class="column">
     <img src="/images/leuck_clan.jpg" alt="1999" style="width:100%">
   </div>
-</div>
-
-<div class="images">
-    <img src="/images/leuck_mexico.jpg" alt="1996">
-    <img src="/images/leuck_mexico.jpg" alt="1996">
-    <img src="/images/leuck_clan.jpg" alt="1999">
 </div>
 
 ## Reunion Pictures 2
