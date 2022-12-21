@@ -4,7 +4,7 @@
 }
 
 .row {
-  vertical-align: middle;
+  align-items: center;
   display: flex;
 }
 
