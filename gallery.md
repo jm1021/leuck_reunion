@@ -74,8 +74,7 @@ Markdown Format takes entire column
   </div>
 </div>
 
-## Matthew Leuck
-## Northrop Family
+## Texas Leuck
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
