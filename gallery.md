@@ -38,14 +38,18 @@
   </div>
 </div>
 
-## Reunion Pictures 2
-![](/images/leuck_mexico.jpg)
-![](/images/leuck_mexico_goof.jpg)
-![](/images/leuck_clan.jpg)
-
 ## Mortensen Family
-![](/images/mortensen_1999.jpg)
-![](/images/mortensen_2015.jpeg)
+<div class="row">
+  <div class="column">
+    <img src="/images/mortensen_1999.jpg" alt="1999" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/mortensen_2015.jpg" alt="2015" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/mortensen_2021.jpg" alt="2021" style="width:100%">
+  </div>
+</div>
 
 ## Northrop Family
 
