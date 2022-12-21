@@ -37,7 +37,7 @@ Markdown Format takes entire column
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
-    <img src="/images/mortensen_1990.heic" alt="1990" style="width:100%">
+    <img src="/images/mortensen_1990.jpg" alt="1990" style="width:100%">
   </div>
   <div class="column">
     <img src="/images/mortensen_1999.jpg" alt="1999" style="width:100%">
