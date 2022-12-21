@@ -164,7 +164,7 @@ Markdown Format takes entire column
     <img src="/images/SDLeucks_stadium.jpeg" alt="2022" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/SDLeucks_baseball.jpeg" alt="2022" style="width:100%">
+    <img src="/images/SDLeucks_baseball.jpg" alt="2022" style="width:100%">
   </div>
 </div>
 
@@ -176,8 +176,8 @@ Markdown Format takes entire column
    <div class="column">
     <img src="/images/SDLeucks_kelle.jpeg" alt="2022" style="width:100%">
   </div>
-   <div class="column">
-       <img src="/images/atrium.jpg" alt="2022" style="width:100%">
+  <div class="column">
+    <img src="/images/SDLeucks_atrium.jpg" alt="2022" style="width:100%">
   </div>
 </div>
 
