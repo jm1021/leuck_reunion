@@ -1,5 +1,7 @@
 ## Mom and Pop Leuck
 ## Reunion Pictures
+![](/images/leuck_mexico.jpg)
+![](/images/leuck_mexico_goof.jpg)
 ![](/images/leuck_clan.jpg)
 
 ## Mortensen Family
