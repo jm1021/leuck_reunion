@@ -64,6 +64,20 @@
 ## Snohomish Leuck's
 
 ## Vegas Leuck's
+<div class="row">
+  <div class="column">
+    <img src="/images/JML-67.jpg" alt="1999" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/VegasLeucks_2022.jpg" alt="2022" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/goofy.webp" alt="9999" style="width:100%">
+  </div>
+</div>
+
+<!---
 ![](images/JML-67.jpg)
 ![](images/VegasLeucks_2022.jpg)
+-->
 
