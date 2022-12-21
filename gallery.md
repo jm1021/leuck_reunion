@@ -60,6 +60,17 @@ Markdown Format takes entire column
   </div>
 </div>
 
+<div class="row"> <!--- make a new row -->
+  <!-- each column is one-third of width -->
+  <div class="column">
+    <img src="/images/mortensen_claire_2022.jpg" alt="2022" style="width:100%">
+  </div>
+  <div class="column">
+  </div>
+  <div class="column">
+  </div>
+</div>
+
 ## Northrop Family
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
