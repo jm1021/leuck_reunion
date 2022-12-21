@@ -22,4 +22,5 @@
 
 ## Vegas Leuck's
 ![](images/JML-67.jpg)
+![](images/VegasLeucks_2022.jpg)
 
