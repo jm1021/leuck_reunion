@@ -8,9 +8,9 @@
 | --- | --- | 6pm | Dinner | Dining Room | Lisa |
 | --- | --- | 7pm | Leuck Greet | Dining Room | Frank and Judith |
 | 6/27 | Tuesday | 8am | Breakfast | Dining Room | Lisa |
-| --- | --- | 10am | Volleyball and U15 games | Field and Court | Johnner, Lora, Shay|
+| --- | --- | 10am | Greet Games | Field and Court | Johnner, Lora, Shay|
 | --- | --- | 1pm | Lunch | Dining Room | Lisa |
-| --- | --- | 2pm | Activity | Swimming Pool Games | Johnner and Lora |
+| --- | --- | 2pm | Activity | Biking and/or Hiking | Johnner and Lora |
 | --- | --- | 6pm | Dinner | Dining Room | Sherri |
 | --- | --- | 7pm | Family Night | Dining Room | John and Mel |
 | 6/28 | Wednesday | 7:30 | Zumba | Courts | Kira |
@@ -30,7 +30,7 @@
 | --- | --- | 8:30am | Breakfast | Dining | Kira |
 | --- | --- | 10am | Sports | Field or Court | Johnner |
 | --- | --- | 12pm | Lunch | Dining Room | Lisa |
-| --- | --- | 1pm | Activity | [Boating, 25 minutes travel](https://bridgebayhouseboats.com/houseboats/grand-sierra) | Jared |
+| --- | --- | 1pm | Activity | TBD | John and Lora |
 | --- | --- | 6pm | Dinner | Dining Room | John |
 | --- | --- | 7pm | Family Night | Dining Room |John and Mel |
 | 7/1 | Saturday | 8am | Breakfast | Dining Room | Lisa |
