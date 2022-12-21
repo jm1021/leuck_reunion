@@ -1,4 +1,6 @@
 ## Mom and Pop Leuck
+![](images/Mom&Dad_November_2019.jpg)
+
 ## Reunion Pictures
 ![](/images/leuck_mexico.jpg)
 ![](/images/leuck_mexico_goof.jpg)
