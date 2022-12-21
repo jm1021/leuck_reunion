@@ -47,10 +47,16 @@ Markdown Format takes entire column
   </div>
 </div>
 
-div class="row"> <!--- make a new row -->
+<div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
-    <img src="/images/Wenatchee_mortensen.jpeg" alt="2021" style="width:100%">
+    <img src="/images/wenatchee_mortensen.jpeg" alt="2021" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="/images/goofy.webp" alt="9999" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="/images/goofy.webp" alt="9999" style="width:100%">
   </div>
 </div>
 
