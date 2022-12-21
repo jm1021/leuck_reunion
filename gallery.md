@@ -4,15 +4,13 @@
 }
 
 .row {
+  vertical-align: middle;
   display: flex;
 }
 
 .column {
-  height: auto;
-  vertical-align: middle;
   flex: 33.33%;
   padding: 5px;
-  
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
