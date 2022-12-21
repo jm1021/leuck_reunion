@@ -47,6 +47,13 @@ Markdown Format takes entire column
   </div>
 </div>
 
+div class="row"> <!--- make a new row -->
+  <!-- each column is one-third of width -->
+  <div class="column">
+    <img src="/images/Wenatchee_mortensen.jpeg" alt="2021" style="width:100%">
+  </div>
+</div>
+
 ## Northrop Family
 
 ## Matthew Leuck
