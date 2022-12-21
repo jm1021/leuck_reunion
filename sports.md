@@ -17,7 +17,7 @@
 > Group sports will occur each every morning.  Sports will be fun and competitive.  Winners will have Leuck bragging rights for years to come.
 
 ### Tuesday Morning
-> Volleyball, Basketball, and Swimming have been a generational sports for the Leuck's.  Early Leuck outing were to Tyler Texas and swimming was an all day event.  At one time, almost everyone was in Eugene Oregon and many holidays were spent at the Danebo Church playing ball.  So in Leuck tradition, the morning will start with sports and of course socializing and getting to know our surroundings.  
+> Volleyball, Basketball, and Swimming have been a generational sports for the Leuck's.  Early Leuck outing were to Tyler Texas and swimming was an all day event.  At one time, almost everyone was in Eugene Oregon and many holidays were spent at the Danebo Church playing ball.  So in Leuck tradition, the morning will start with sports and of course socializing and getting to know our surroundings.  Sports, rinse, eat, and repeat.
 - The facility has a field and Volleyball net
 - Half-Court basketball
 - Bocce Ball
