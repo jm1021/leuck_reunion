@@ -1,32 +1,26 @@
 <style>
-* {
-  box-sizing: border-box;
-}
-
+/* row is flexible size and aligns pictures in center */
 .row {
   align-items: center;
   display: flex;
 }
 
+/* column is one-third of the width */
 .column {
   flex: 33.33%;
   padding: 5px;
 }
-
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 500px) {
-  .column {
-    width: 100%;
-  }
-}
-
 </style>
 
 ## Mom and Pop Leuck
+<!---
+Markdown Format takes entire column
+-->
 ![](images/Mom&Dad_November_2019.jpg)
 
 ## Reunion Pictures
-<div class="row">
+<div class="row"> <!--- make a new row -->
+  <!-- each column is one-third of width -->
   <div class="column">
     <img src="/images/leuck_mexico.jpg" alt="1996" style="width:100%">
   </div>
@@ -39,7 +33,8 @@
 </div>
 
 ## Mortensen Family
-<div class="row">
+<div class="row"> <!--- make a new row -->
+  <!-- each column is one-third of width -->
   <div class="column">
     <img src="/images/mortensen_1999.jpg" alt="1999" style="width:100%">
   </div>
@@ -64,7 +59,8 @@
 ## Snohomish Leuck's
 
 ## Vegas Leuck's
-<div class="row">
+<div class="row"> <!--- make a new row -->
+  <!-- each column is one-third of width -->
   <div class="column">
     <img src="/images/JML-67.jpg" alt="1999" style="width:100%">
   </div>
@@ -75,9 +71,3 @@
     <img src="/images/goofy.webp" alt="9999" style="width:100%">
   </div>
 </div>
-
-<!---
-![](images/JML-67.jpg)
-![](images/VegasLeucks_2022.jpg)
--->
-
