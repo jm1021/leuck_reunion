@@ -160,21 +160,21 @@ Markdown Format takes entire column
   <div class="column">
     <img src="/images/SDLeucks_jared.jpeg" alt="2022" style="width:100%">
   </div>
-   <div class="column">
-    <img src="/images/SDLeucks_stadium.jpeg" alt="2022" style="width:100%">
+  <div class="column">
+    <img src="/images/SDLeucks_janice_naya.jpeg" alt="2022" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/SDLeucks_baseball.jpg" alt="2022" style="width:100%">
+    <img src="/images/SDLeucks_kelle.jpeg" alt="2022" style="width:100%">
   </div>
 </div>
 
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
-    <img src="/images/SDLeucks_janice_naya.jpeg" alt="2022" style="width:100%">
+    <img src="/images/SDLeucks_stadium.jpeg" alt="2022" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/SDLeucks_kelle.jpeg" alt="2022" style="width:100%">
+    <img src="/images/SDLeucks_baseball.jpg" alt="2022" style="width:100%">
   </div>
   <div class="column">
     <img src="/images/SDLeucks_atrium.jpg" alt="2022" style="width:100%">
