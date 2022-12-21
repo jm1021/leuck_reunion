@@ -37,26 +37,26 @@ Markdown Format takes entire column
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
+    <img src="/images/mortensen_tamara_1984.webp" alt="1984" style="width:100%">
+  </div>
+  <div class="column">
     <img src="/images/mortensen_1990.jpg" alt="1990" style="width:100%">
   </div>
   <div class="column">
     <img src="/images/mortensen_1999.jpg" alt="1999" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/mortensen_2015.jpg" alt="2015" style="width:100%">
   </div>
 </div>
 
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
+    <img src="/images/mortensen_2015.jpg" alt="2015" style="width:100%">
+  </div>
+  <div class="column">
     <img src="/images/wenatchee_mortensen.jpeg" alt="2021" style="width:100%">
   </div>
-   <div class="column">
+  <div class="column">
     <img src="/images/mortensen_2021.jpg" alt="2021" style="width:100%">
-  </div>
-   <div class="column">
-    <img src="/images/goofy.webp" alt="9999" style="width:100%">
   </div>
 </div>
 
