@@ -16,7 +16,7 @@
 
 | Family | Attending | Assignment | Count | Children |
 | --- | --- | --- | --- | --- |
-| Frank & Judith | Yes | Alpine | 2 | None |
+| Frank & Judith | Yes | Dogwood Primary | 2 | None |
 | | | | | |
 | Johnner & Lora | Yes | ? | 3 | Shay (14) |
 | Trent & Yuri | ? | ? | 5 | Amelia (8), Cruz (6), Gavi (1) |
