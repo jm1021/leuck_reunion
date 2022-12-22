@@ -66,13 +66,10 @@
 ## Free Time Activities
 > In the area.  There are many activities in Shasta Lakes or nearby Redding.
 
-- Shasta Dam
+- [Shasta Dam](https://en.wikipedia.org/wiki/Shasta_Dam)
 - [Best Shasta Lakes Trails](https://www.alltrails.com/us/california/shasta-lake)
-- Gold Hills Golfing
-- Lake Shasta Caverns
-- Turtle Bay Museum
-- Fishing tours
-- Sundial Bridge
-- Cascade Theater
-- Segway rentals
-- Waterworks Park
+- [Gold Hills Golfing](https://www.goldhillsgolf.com/)
+- [Turtle Bay Museum](https://www.turtlebay.org/)
+- [Sundial Bridge](https://www.turtlebay.org/sundial-bridge)
+- [Cascade Theater](https://cascadetheatre.org/)
+- [Waterworks Park](https://www.waterworkspark.com/)
