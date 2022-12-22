@@ -23,22 +23,23 @@ Markdown Format takes entire column
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
-    <img src="/images/leuck_mexico.jpg" alt="1996" style="width:100%">
-  </div>
-  <div class="column">
     <img src="/images/leuck_mexico_goof.jpg" alt="1996" style="width:100%">
   </div>
   <div class="column">
+    <img src="/images/leuck_clan.jpg" alt="1999" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/leuck_chelan.jpeg" alt="2015" style="width:100%">
   </div>
 </div>
 
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
-    <img src="/images/leuck_clan.jpg" alt="1999" style="width:100%">
+    <img src="/images/leuck_wenatchee.jpeg" alt="2015" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/leuck_next_gen.jpg" alt="1996" style="width:100%">
+    <img src="/images/leuck_next_gen.jpg" alt="2022" style="width:100%">
   </div>
   <div class="column">
     <img src="/images/leuck_mini_reunion_2022.jpeg" alt="2022" style="width:100%">
