@@ -17,7 +17,8 @@
 
 ### Tuesday Afternoon
 > Hike and/or Bike by Johnner.   There are 11 miles of trails and water around campus.   We will go on an adventure and explore the surroundings toward the Dam.
-- [Shasta Lakes Trails](https://www.alltrails.com/us/california/shasta-lake)
+
+- Arial photos of Camp and Nearby Dam
 
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
@@ -30,6 +31,9 @@
    <div class="column">
   </div>
 </div>
+
+- [Other Shasta Lakes Trails](https://www.alltrails.com/us/california/shasta-lake)
+
 
 ### Wednesday Afternoon
 > Spelunking coordinated by Johnner and Lora.  The Mortensen's frequent through the California corridor.  On each pass we have been wanting to visit the [Lake Shasta Caverns](https://lakeshastacaverns.clickforward.com/).   This is highly recommended by all locals and the trip include bus, boat ride, and cave adventure.   
