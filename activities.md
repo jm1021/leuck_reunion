@@ -16,7 +16,7 @@
 > Group events will occur each afternoon.  These are intended to explore local area attractions and build family bonds.
 
 ### Tuesday Afternoon
-> Hike and/or Bike by Johnner.   There are 11 miles of trails and water around campus.   We will go on an adventure and explore the surroundings toward the Dam.
+> Hike and/or Bike coordinated by Johnner.   There are 11 miles of trails and water around campus.   We will go on an adventure and explore the surroundings toward the Dam.
 
 - Arial photos of Camp and Nearby Dam
 
