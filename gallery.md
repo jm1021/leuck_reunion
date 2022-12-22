@@ -26,7 +26,7 @@ Markdown Format takes entire column
     <img src="/images/leuck_mexico.jpg" alt="1996" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/leuck_mexico.jpg" alt="1996" style="width:100%">
+    <img src="/images/leuck_mexico_goof.jpg" alt="1996" style="width:100%">
   </div>
   <div class="column">
   </div>
