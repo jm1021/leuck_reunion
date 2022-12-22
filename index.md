@@ -28,9 +28,9 @@
 | --- | --- | 7pm | Family Night | Dining Room | John and Mel |
 | 6/30 | Friday | 7:30 | Zumba | Court | Lisa |
 | --- | --- | 8:30am | Breakfast | Dining | Kira |
-| --- | --- | 10am | Sports | Field or Court | Johnner |
+| --- | --- | 10am | Family Relays | Field or Court | Johnner |
 | --- | --- | 12pm | Lunch | Dining Room | Lisa |
-| --- | --- | 1pm | Activity | TBD | John and Lora |
+| --- | --- | 1pm | Explore the area | You pick | Self coordinated |
 | --- | --- | 6pm | Dinner | Dining Room | John |
 | --- | --- | 7pm | Family Night | Dining Room |John and Mel |
 | 7/1 | Saturday | 8am | Breakfast | Dining Room | Lisa |
