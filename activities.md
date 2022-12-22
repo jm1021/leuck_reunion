@@ -18,7 +18,7 @@
 ### Tuesday Afternoon
 > Hike and/or Bike coordinated by Johnner.   There are 11 miles of trails and water around campus.   We will go on an adventure and explore the surroundings toward the Dam.
 
-- Arial photos of Camp and Nearby Dam
+- Arial photos of Camp and Nearby [Shasta Dam](https://en.wikipedia.org/wiki/Shasta_Dam)
 
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
@@ -66,7 +66,6 @@
 ## Free Time Activities
 > In the area.  There are many activities in Shasta Lakes or nearby Redding.
 
-- [Shasta Dam](https://en.wikipedia.org/wiki/Shasta_Dam)
 - [Best Shasta Lakes Trails](https://www.alltrails.com/us/california/shasta-lake)
 - [Gold Hills Golfing](https://www.goldhillsgolf.com/)
 - [Turtle Bay Museum](https://www.turtlebay.org/)
