@@ -147,7 +147,7 @@ Markdown Format takes entire column
     <img src="/images/Englehardt Family 2021.jpeg" alt="9999" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/goofy.webp" alt="9999" style="width:100%">
+    <img src="/images/Angela & Tye 2018 Alaska.jpg" alt="9999" style="width:100%">
   </div>
    <div class="column">
     <img src="/images/goofy.webp" alt="9999" style="width:100%">
