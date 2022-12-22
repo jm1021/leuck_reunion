@@ -32,8 +32,6 @@
   </div>
 </div>
 
-- [Other Shasta Lakes Trails](https://www.alltrails.com/us/california/shasta-lake)
-
 
 ### Wednesday Afternoon
 > Spelunking coordinated by Johnner and Lora.  The Mortensen's frequent through the California corridor.  On each pass we have been wanting to visit the [Lake Shasta Caverns](https://lakeshastacaverns.clickforward.com/).   This is highly recommended by all locals and the trip include bus, boat ride, and cave adventure.   
@@ -69,6 +67,7 @@
 > In the area.  There are many activities in Shasta Lakes or nearby Redding.
 
 - Shasta Dam
+- [Best Shasta Lakes Trails](https://www.alltrails.com/us/california/shasta-lake)
 - Gold Hills Golfing
 - Lake Shasta Caverns
 - Turtle Bay Museum
