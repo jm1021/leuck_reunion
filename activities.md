@@ -1,8 +1,34 @@
+<!--- This section is Cascading Style Sheet (CSS) and applies to HTML -->
+<style>
+/* "row style" is flexible size and aligns pictures in center */
+.row {
+  align-items: center;
+  display: flex;
+}
+
+/* "column style" is one-third of the width with padding */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+</style>
 ## Planned Activities
 > Group events will occur each afternoon.  These are intended to explore local area attractions and build family bonds.
 
 ### Tuesday Afternoon
 > Hike and/or Bike by Johnner.   There are 11 miles of trails and water nearby.   We will go on an adventure and explore the surroundings.
+
+<div class="row"> <!--- make a new row -->
+  <!-- each column is one-third of width -->
+  <div class="column">
+    <img src="/images/coram-ranch-ariel.png" alt="site" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="/images/coram-ranch-dam.png" alt="trail" style="width:100%">
+  </div>
+   <div class="column">
+  </div>
+</div>
 
 ### Wednesday Afternoon
 > Spelunking coordinated by Johnner and Lora.  The Mortensen's frequent through the California corridor.  On each pass we have been wanting to visit the [Lake Shasta Caverns](https://lakeshastacaverns.clickforward.com/).   This is highly recommended by all locals and the trip include bus, boat ride, and cave adventure.   
@@ -22,19 +48,6 @@
 
 
 ## Free Time Activities
-> On Site. Bring your boats and swimming trunks when you visit Coram Ranch. We're located just 1/4 mile from the lake and Centimudi boat ramp.  Enjoy a beautiful walk or mountain biking along the River Rail Trail, just below our ranch.
-
-- Swimming Pool
-- Fishing (Bring your own equipment)
-- Mountain biking (Bike on site)
-- Hiking
-- Basketball
-- Bocce ball 
-- Ping pong
-- Table soccer
-- Billiards
-
-## Free Time Activities
 > In the area.  There are many activities in Shasta Lakes or nearby Redding.
 
 - Shasta Dam
@@ -42,7 +55,6 @@
 - Lake Shasta Caverns
 - Turtle Bay Museum
 - Fishing tours
-- Boat rentals
 - Sundial Bridge
 - Cascade Theater
 - Segway rentals
