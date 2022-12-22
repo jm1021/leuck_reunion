@@ -41,7 +41,7 @@
 - Fees $37 adult, $23 7-15, $13 3-6, under 2 yrs free, 20 people required for this rate
 - 600 stairs in cavern and 1 hour hike, there are options for bus/boat only and a half-way turnout in cave
 - 2 hours of bus, boat and hike
-- Options for Gem Stone mining
+- Options for Gem Stone mining on site
 
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
