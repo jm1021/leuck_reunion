@@ -17,7 +17,7 @@
 <!---
 Markdown Format takes entire column
 -->
-![](images/Mom&Dad_November_2019.jpg)
+![](images/Dad_Mom_2019.jpg)
 
 ## Reunion/Multi-Family Pictures
 <div class="row"> <!--- make a new row -->
@@ -130,13 +130,13 @@ Markdown Format takes entire column
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
-    <img src="/images/Englehardt Family 2021.jpeg" alt="9999" style="width:100%">
+    <img src="/images/Englehardt_Family_2021.jpeg" alt="9999" style="width:100%">
   </div>
    <div class="column">
     <img src="/images/Angela_Tye_Alaska_2018.jpg" alt="9999" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/Aspen &  Brandon 2021.jpeg" alt="9999" style="width:100%">
+    <img src="/images/Aspen_Brandon_2021.jpeg" alt="9999" style="width:100%">
   </div>
 </div>
 
