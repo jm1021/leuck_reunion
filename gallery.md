@@ -130,15 +130,21 @@ Markdown Format takes entire column
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
-    <img src="/images/goofy.webp" alt="9999" style="width:100%">
+    <img src="/images/Schaffer4.JPEG" alt="9999" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/goofy.webp" alt="9999" style="width:100%">
+    <img src="/images/Schaffer1.JPG" alt="9999" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/goofy.webp" alt="9999" style="width:100%">
+    <img src="/images/Schaffer2.JPG" alt="9999" style="width:100%">
   </div>
 </div>
+
+ <div class="row"> <!--- make a new row -->
+  <!-- each column is one-third of width -->
+  <div class="column">
+    <img src="/images/Schaffer3.JPEG" alt="9999" style="width:100%">
+  </div>
 
 ## Englehardt Family
 <div class="row"> <!--- make a new row -->
