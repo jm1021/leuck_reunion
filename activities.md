@@ -62,7 +62,7 @@
 - [Bridge Bay at Shasta Lake](https://bridgebayhouseboats.com/small-boat-rental/ski-boat/)
 
 ### Friday Afternoon
-> Adventure coordinated individually or by clan.  There are many activities in Shasta Lakes or nearby Redding.  Our last adventure will have the flexibility to explore your favorite.  Crossover with a family or split up in and combination you like and go see one of the surrounding sites.
+> Adventure coordinated individually or by clan.   Crossover with a family or split up in any combination you like, aka Alaska Cruise style.  There are many activities in Shasta Lakes or nearby Redding.  Here are some that are recommended.  Be back for Dinner and the final Family Night.
 
 - [Best Shasta Lakes Trails](https://www.alltrails.com/us/california/shasta-lake)
 - [Gold Hills Golfing](https://www.goldhillsgolf.com/)
