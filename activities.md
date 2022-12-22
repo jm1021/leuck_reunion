@@ -41,6 +41,19 @@
 - 2 hours of bus, boat and hike
 - Options for Gem Stone mining
 
+<div class="row"> <!--- make a new row -->
+  <!-- each column is one-third of width -->
+  <div class="column">
+    <img src="/images/Shasta_Caverns1.jpg" alt="cavern1" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="/images/Shasta_Caverns2.jpeg" alt="cavern1" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="/images/Shasta_Caverns3.jpeg" alt="cavern1" style="width:100%">
+  </div>
+</div>
+
 ### Thursday Afternoon
 > Boating coordinated by Jared.  In the Eugene days the family had several boating trips at the surrounding lake  UJ (Frank's brother) was the center of many of these trips.  Picking up for UJ, Jared is on the boating adventure and will be providing us updates.
 
