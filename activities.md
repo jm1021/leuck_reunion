@@ -57,14 +57,12 @@
 </div>
 
 ### Thursday Afternoon
-> Boating coordinated by Jared.  In the Eugene days the family had several boating trips at the surrounding lake  UJ (Frank's brother) was the center of many of these trips.  Picking up for UJ, Jared is on the boating adventure and will be providing us updates.
+> Boating coordinated by Jared.  In the Eugene days the family had several boating trips at the surrounding lakes.  UJ (Frank's brother) was the center of many of these trips.  Picking up for UJ, Jared is coordinating a boating adventure and will be providing us updates.
+
+- [Bridge Bay at Shasta Lake](https://bridgebayhouseboats.com/small-boat-rental/ski-boat/)
 
 ### Friday Afternoon
-> TBD.
-
-
-## Free Time Activities
-> In the area.  There are many activities in Shasta Lakes or nearby Redding.
+> Adventure coordinated individually or by clan.  There are many activities in Shasta Lakes or nearby Redding.  Our last adventure will have the flexibility to explore your favorite.  Crossover with a family or split up in and combination you like and go see one of the surrounding sites.
 
 - [Best Shasta Lakes Trails](https://www.alltrails.com/us/california/shasta-lake)
 - [Gold Hills Golfing](https://www.goldhillsgolf.com/)
