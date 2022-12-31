@@ -14,39 +14,39 @@
 
 ## Housing Assignment
 
-| Family | Attending | Assignment | Count | Children |
-| --- | --- | --- | --- | --- |
-| Frank, Judith | Yes | Dogwood Primary | 2 | None |
+| Family | Attending | Assignment | Count | Children | Arrive | Depart
+| --- | --- | --- | --- | --- | --- | --- |
+| Frank, Judith | Yes | Dogwood Primary | 2 | None | Unk | Unk |
 | | | | | |
-| Johnner, Lora | Yes | ? | 3 | Shay (14) |
-| Trent, Yuri | ? | ? | 5 | Amelia (8), Cruz (6), Gavi (1) |
-| Corey | Yes | ? | 1 | None |
-| Tiernan | Yes | ? | 1 | None |
-| Claire | ? | ? | 1 | None |
+| Johnner, Lora | Yes | ? | 3 | Shay (14) | Mon | Sat |
+| Trent, Yuri | Yes | ? | 5 | Amelia (8), Cruz (6), Gavi (1) | Mon | Sat |
+| Corey | Yes | ? | 1 | None | Unk | Unk |
+| Tiernan | Yes | ? | 1 | None | Unk | Unk |
+| Claire | ? | ? | 1 | None | Unk | Unk |
 | | | | | |
-|Lisa-Anne | Yes | ? | 1+ | None | 
-|Brianna, Forest | ? | ? | 6 | Sayla (6), Tundra (4), Alora (2), Keelynn (1) |
-|Kira, Spencer | ? | ? | 5 | Georgianna (6), James (5), Arabella (2) |
-|Ethan, Layne | ? | ? | 6 | William (6), Lily (4), Adeline (2), Eleanor (1) |
-| Jarom | Yes | ? | 1 | None |
-| Braden | Yes | ? | 1 | None |
+|Lisa-Anne | Yes | ? | 1+ | None | Unk | Unk |
+|Brianna, Forest | ? | ? | 6 | Sayla (6), Tundra (4), Alora (2), Keelynn (1) | Unk | Unk |
+|Kira, Spencer | ? | ? | 5 | Georgianna (6), James (5), Arabella (2) | Unk | Unk |
+|Ethan, Layne | ? | ? | 6 | William (6), Lily (4), Adeline (2), Eleanor (1) | Unk | Unk |
+| Jarom | Yes | ? | 1 | None | Unk | Unk |
+| Braden | Yes | ? | 1 | None | Unk | Unk |
 | | | | | |
-| Mathew | ? | ? | 1 | None |
+| Mathew | ? | ? | 1 | None | Unk | Unk |
 | | | | | |
-| Sherri, Drumond | Yes | ? | 2 | None |
-| Taylor | Yes | ? | 1 | None |
-| Jake | Yes | ? | 1 | None | 
+| Sherri, Drumond | Yes | ? | 2 | None | Unk | Unk |
+| Taylor | Yes | ? | 1 | None | Unk | Unk |
+| Jake | Yes | ? | 1 | None | Unk | Unk |
 | | | | | |
-| Angela, Tye | Yes | ? | 2 | None | 
-| Bryce | ? | ? | 1 | None |
-| Aspen, Brandon | ? | ? | 2 | None | 
-| Calem | ? | ? | 1 | None | 
+| Angela, Tye | Yes | ? | 2 | None | Unk | Unk |
+| Bryce | ? | ? | 1 | None | Unk | Unk |
+| Aspen, Brandon | ? | ? | 2 | None | Unk | Unk |
+| Calem | ? | ? | 1 | None | Unk | Unk |
 | | | | | |
-| Jared, Janice | Yes | ? | 4 | Kelle (15), Naya (13) |
+| Jared, Janice | Yes | ? | 4 | Kelle (15), Naya (13) | Unk | Unk |
 | | | | | |
-| John, Melanie | Yes | ? | 4 | Connor (17), Sophia (14) |
-| Isaiah | ? | ? | 1 | None | 
+| John, Melanie | Yes | ? | 4 | Connor (17), Sophia (14) | Unk | Unk |
+| Isaiah | ? | ? | 1 | None | Unk | Unk |
 | | | | | |
-| Jeremiah, Melissa | Yes | ? | 3 | Liam (11)
-| Annalyce | ? | ? | 1 | None | 
-| Peyton | Yes | ? | 1 | None | 
+| Jeremiah, Melissa | Yes | ? | 3 | Liam (11) | Unk | Unk |
+| Annalyce | ? | ? | 1 | None | Unk | Unk |
+| Peyton | Yes | ? | 1 | None | Unk | Unk |
