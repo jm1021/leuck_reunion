@@ -24,7 +24,7 @@
 ### Thursday Breakfast
 
 ### Thursday Lunch
-> Make lunch at dinning room.  Pack and Go.  Leave no mess please.  There will likely be some down time and snacks wanted while boating.
+> Make lunch at dinning room.  Pack and Go.  Leave no mess please.  There will likely be some down time and extra snacks will be wanted while boating.
 
 ### Thursday Dinner
 
