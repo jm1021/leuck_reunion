@@ -24,10 +24,10 @@
 | Tiernan | Yes | ? | 1 | - | Mon | Sat |
 | Claire | Yes | ? | 1 | - | Mon | Sat |
 | | | | | |
-|Lisa-Anne | Yes | ? | 1+ | None | Mon | Sat |
-|Brianna, Forest | ? | ? | 6 | Sayla (6), Tundra (4), Alora (2), Keelynn (1) | Unk | Unk |
-|Kira, Spencer | ? | ? | 5 | Georgianna (6), James (5), Arabella (2) | Unk | Unk |
-|Ethan, Layne | ? | ? | 6 | William (6), Lily (4), Adeline (2), Eleanor (1) | Unk | Unk |
+|Lisa-Anne, Chris | Yes | ? | 1+ | None | Mon | Sat |
+|Brianna, Forest | Yes | ? | 6 | Sayla (6), Tundra (4), Alora (2), Keelynn (1) | Unk | Unk |
+|Kira, Spencer | Yes | ? | 5 | Georgianna (6), James (5), Arabella (2), Henry (NB) | Unk | Unk |
+|Ethan, Layne | Yes | ? | 6 | William (6), Lily (4), Adeline (2), Eleanor (1) | Unk | Unk |
 | Jarom | Yes | ? | 1 | None | Unk | Unk |
 | Braden | Yes | ? | 1 | None | Unk | Unk |
 | | | | | |
