@@ -6,7 +6,7 @@
  
 ### Tuesday Breakfast
 
-### Tuesday Make & Go Lunch
+### Tuesday Lunch
 > Make lunch at dinning room.  Pack and Go.  Eat outside or at your housing, pick up trash and leave no mess in dinning hall or grounds.
 
 ### Tuesday Dinner
