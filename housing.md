@@ -25,11 +25,11 @@
 | Claire | Yes | ? | 1 | - | Mon | Sat |
 | | | | | |
 |Lisa-Anne, Chris | Yes | ? | 1+ | None | Mon | Sat |
-|Brianna, Forest | Yes | ? | 6 | Sayla (6), Tundra (4), Alora (2), Keelynn (1) | Unk | Unk |
-|Kira, Spencer | Yes | ? | 5 | Georgianna (6), James (5), Arabella (2), Henry (NB) | Unk | Unk |
-|Ethan, Layne | Yes | ? | 6 | William (6), Lily (4), Adeline (2), Eleanor (1) | Unk | Unk |
-| Jarom | Yes | ? | 1 | None | Unk | Unk |
-| Braden | Yes | ? | 1 | None | Unk | Unk |
+|Brianna, Forest | Yes | ? | 6 | Sayla (6), Tundra (4), Alora (2), Keelynn (1) | Mon | Sat |
+|Kira, Spencer | Yes | ? | 5 | Georgianna (6), James (5), Arabella (2), Henry (NB) | Mon | Sat |
+|Ethan, Layne | Yes | ? | 6 | William (6), Lily (4), Adeline (2), Eleanor (1) | Mon | Sat |
+| Jarom | Yes | ? | 1 | None | Mon | Sat |
+| Braden | Yes | ? | 1 | None | Mon | Sat |
 | | | | | |
 | Mathew | ? | ? | 1 | None | Unk | Unk |
 | | | | | |
