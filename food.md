@@ -4,7 +4,8 @@
 ### Monday Dinner
 
  
-### Tuesday Breakfast
+### Tuesday Breakfast @ 8am
+> Grits and Sausage Links in the main hall
 
 ### Tuesday Lunch
 > Make lunch at dinning room.  Pack and Go.  Eat outside or at your housing, pick up trash and leave no mess in dinning hall or grounds.
