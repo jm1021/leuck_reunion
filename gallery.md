@@ -133,7 +133,7 @@ Markdown Format takes entire column
     <img src="/images/LisaGrad_06.2022.jpg" alt="2022" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/Lisa_Braden_2022" alt="9999" style="width:100%">
+    <img src="/images/Lisa_Braden_2022" alt="2022" style="width:100%">
   </div>
 </div>
 ## Texas Leuck
