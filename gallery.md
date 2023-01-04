@@ -156,13 +156,13 @@ Markdown Format takes entire column
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
-    <img src="/images/goofy.webp" alt="9999" style="width:100%">
+    <img src="/images/DSC_9084EDIT.jpg" alt="2022" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/goofy.webp" alt="9999" style="width:100%">
+    <img src="/images/IMG_3335_JPG" alt="2022" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/goofy.webp" alt="9999" style="width:100%">
+    <img src="/images/IMG_3432.JPG" alt="2022" style="width:100%">
   </div>
 </div>
 
