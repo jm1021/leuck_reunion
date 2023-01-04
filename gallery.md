@@ -8,10 +8,23 @@ Markdown Format takes entire column
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
-    <img src="/images/leuck_mexico_goof.jpg" alt="1996" style="width:100%">
+    <img src="/images/leuck_1992.jpeg" alt="1992" style="width:100%">
   </div>
   <div class="column">
+    <img src="/images/leuck_surf.jpeg" alt="1996" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/leuck_mexico_goof.jpg" alt="1996" style="width:100%">
+  </div>
+</div>
+
+<div class="row"> <!--- make a new row -->
+  <!-- each column is one-third of width -->
+  <div class="column">
     <img src="/images/leuck_clan.jpg" alt="1999" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/leuck_silver_creek.jpeg" alt="2004" style="width:100%">
   </div>
   <div class="column">
     <img src="/images/leuck_chelan.jpeg" alt="2015" style="width:100%">
