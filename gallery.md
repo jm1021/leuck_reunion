@@ -94,48 +94,49 @@ Markdown Format takes entire column
     <img src="/images/Brianna_Fam_2_2022.jpg" alt="2022" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/goofy.webp" alt="9999" style="width:100%">
+
   </div>
 </div>
 
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
-    <img src="/images/KiraFam_2020.jpg" alt="2020" style="width:100%">
+    <img src="/images/KiraFam_2020.JPG" alt="2020" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/KiraFam_2021.jpg" alt="2021" style="width:100%">
+    <img src="/images/KiraFam_2021.JPG" alt="2021" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/goofy.webp" alt="9999" style="width:100%">
+
   </div>
 </div>
 
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
-    <img src="/images/EthanFam_07.2022.jpg" alt="2022" style="width:100%">
+    <img src="/images/EthanFam_07.2022.JPG" alt="2022" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/EthanFam2_2022.jpg" alt="2022" style="width:100%">
+    <img src="/images/EthanFam2_2022.JPG" alt="2022" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/LisaEnglandGBs_07.2022.jpg" alt="9999" style="width:100%">
+    <img src="/images/LisaEnglandGBs_07.2022.JPG" alt="9999" style="width:100%">
   </div>
 </div>
 
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
-    <img src="/images/Lisa_Chris_10.2022.jpg" alt="2022" style="width:100%">
+    <img src="/images/Lisa_Chris_10.2022.JPG" alt="2022" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/LisaGrad_06.2022.jpg" alt="2022" style="width:100%">
+    <img src="/images/LisaGrad_06_2022.JPG" alt="2022" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/Lisa_Braden_2022" alt="2022" style="width:100%">
+    <img src="/images/Lisa_Braden_2022.JPG" alt="2022" style="width:100%">
   </div>
 </div>
+
 ## Texas Leuck
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
