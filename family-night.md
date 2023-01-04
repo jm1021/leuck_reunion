@@ -31,6 +31,7 @@ Trivia, which one is Frank and Judith?  who are the others?
 - Family prayer, 'Leuck style'
 
 ### Wednesday Family Night
+> Sports Trivia.  John will give trivia questions to everyone.
 
 ### Thursday Family Night
 
