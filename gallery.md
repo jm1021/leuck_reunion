@@ -140,7 +140,7 @@ Markdown Format takes entire column
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
-    <img src="/images/Shreeeve2022Halloween.JPG" alt="2022" style="width:100%">
+    <img src="/images/Shreeve2022Halloween.JPG" alt="2022" style="width:100%">
   </div>
    <div class="column">
     <img src="/images/Carlson2022Halloween.JPG" alt="2022" style="width:100%">
