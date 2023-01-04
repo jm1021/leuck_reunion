@@ -98,6 +98,19 @@ Markdown Format takes entire column
   </div>
 </div>
 
+<div class="row"> <!--- make a new row -->
+  <!-- each column is one-third of width -->
+  <div class="column">
+    <img src="/images/Kira_Fam_2020.jpg" alt="2020" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="/images/Kira_Fam_2_2021.jpg" alt="2021" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="/images/goofy.webp" alt="9999" style="width:100%">
+  </div>
+</div>
+
 ## Texas Leuck
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
