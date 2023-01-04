@@ -107,7 +107,7 @@ Markdown Format takes entire column
     <img src="/images/KiraFam_2021.JPG" alt="2021" style="width:100%">
   </div>
    <div class="column">
-
+    <img src="/images/Kira_Preg#4.jpg" alt="2022" style="width:100%">
   </div>
 </div>
 
@@ -134,6 +134,19 @@ Markdown Format takes entire column
   </div>
    <div class="column">
     <img src="/images/Lisa_Braden_2022.JPG" alt="2022" style="width:100%">
+  </div>
+</div>
+
+<div class="row"> <!--- make a new row -->
+  <!-- each column is one-third of width -->
+  <div class="column">
+    <img src="/images/Shreeeve2022Halloween.JPG" alt="2022" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="/images/Carlson2022Halloween.JPG" alt="2022" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="/images/Northrop2022Halloween.JPG" alt="2022" style="width:100%">
   </div>
 </div>
 
