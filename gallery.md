@@ -143,7 +143,7 @@ Markdown Format takes entire column
     <img src="/images/Jarom2022Halloween.JPG" alt="2022" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/LisaScotlandCulloden_07.22.JPG" alt="2022" style="width:100%">
+    <img src="/images/LisaScotlandCulloden_07.2022.JPG" alt="2022" style="width:100%">
   </div>
    <div class="column">
     
