@@ -18,7 +18,6 @@ in mkShell {
     nodejs
     nodePackages.npm
     nodePackages.ijavascript
-    jekyll_env 
     pkgs.rubyPackages.ffi
     pkgs.bundler
   ];
