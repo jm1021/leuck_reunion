@@ -4,8 +4,8 @@ with pkgs;
 let
   inherit (pkgs) bundlerEnv stdenv;
   pythonDeps = ps: with ps; [
-    bash_kernel
     jupyter
+    bash_kernel
   ];
   pythonEnv = python3.withPackages pythonDeps;
   gems = bundlerEnv {
@@ -19,8 +19,8 @@ in mkShell {
     nodePackages.npm
     nodePackages.ijavascript
     jekyll_env 
-    bundler 
-    ruby
+    pkgs.rubyPackages.ffi
+    pkgs.bundler
   ];
 
 }
