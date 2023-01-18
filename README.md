@@ -17,10 +17,25 @@ Usage
 ```bash
 bundle exec jekyll serve -H 0.0.0.0 -P 4001 # -H and -P are optional
 ```
+3. Install Nix and run using a Nix shell (Option B).  This should be quicker than Docker and more reliable than previous.
 
-3. Preview Site (Option B) - [GitHub Pages Ruby Gem](https://github.com/github/pages-gem) has additional information on making a local server.  Ruby requirements are the same: `Gemfile`,`bundle install`.   This README looks like basis of FastPages `make server` as it uses Docker and shows how to setup a `Makefile`.
+```bash
+sh <(curl -L https://nixos.org/nix/install) # installs nix requires root password
 
-4. Customizing style (CSS).  This project uses `/assets/css/style.scss` as the location to customize your CSS. To avoid warnings in VSCode make sure you install `SCSS IntelliSense` plugin.  To understand default style, make sure you ***Preview Site*** and refer to build generated `_site/assets/css/style.css` (this is worth 1000 lectures).  For the reunion site `gallery.md` uses custom style from `assets/css/style.css` to support 3 images per row.  Observe file and position of import and custom CSS, order is important as clarified in Midnight Theme readme. ...
+# restart terminal as shell is updated, then cd ~/vscode/project-dir assuming you have it cloned
+
+nix-shell # start shell, aka nix os virtual environment
+code . # activate VSCode
+
+# open vscode terminal
+
+bundle exec jekyll build # run server
+
+```
+
+4. Preview Site (Option C) - [GitHub Pages Ruby Gem](https://github.com/github/pages-gem) has additional information on making a local server.  Ruby requirements are the same: `Gemfile`,`bundle install`.   This README looks like basis of FastPages `make server` as it uses Docker and shows how to setup a `Makefile`.
+
+5. Customizing style (CSS).  This project uses `/assets/css/style.scss` as the location to customize your CSS. To avoid warnings in VSCode make sure you install `SCSS IntelliSense` plugin.  To understand default style, make sure you ***Preview Site*** and refer to build generated `_site/assets/css/style.css` (this is worth 1000 lectures).  For the reunion site `gallery.md` uses custom style from `assets/css/style.css` to support 3 images per row.  Observe file and position of import and custom CSS, order is important as clarified in Midnight Theme readme. ...
 
 ```css
 ---
