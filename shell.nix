@@ -28,4 +28,8 @@ in mkShell {
     pkgs.rubyPackages.ffi
     pkgs.bundler
   ];
+
+  shellHook = ''
+   bundle install
+  '';
 }
