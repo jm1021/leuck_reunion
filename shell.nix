@@ -7,6 +7,6 @@ pkgs.mkShell {
   ];
 
   shellHook = ''
-   bundle exec jekyll serve
+   bundle exec jekyll serve -P 4001
   '';
 }
