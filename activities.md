@@ -35,8 +35,8 @@
   </div>
 </div>
 
-### Tuesday Afternoon
-> Hike and/or Bike coordinated by Johnner.   There are 11 miles of trails and water around campus.   We will go on an adventure and explore the surroundings toward the Dam.
+### Tuesday Afternoon (Johnner)
+> Hike, Bike and Fish.   There are 11 miles of trails and water around campus.   We will go on an adventure and explore the surroundings toward the Dam.
 
 - Arial photos of Camp and Nearby [Shasta Dam](https://en.wikipedia.org/wiki/Shasta_Dam)
 
@@ -52,11 +52,11 @@
   </div>
 </div>
 
-### Wednesday Morning
-> Pool Olympics by Annalyce and Peyton.  Curious feedback ... Hey, we’ve decided we are including a polar plunge. Please be prepared to provide the cash. 😂👍🏽
+### Wednesday Morning (Annalyce and Peyton)
+> Pool Olympics.  Curious feedback ... Hey, we’ve decided we are including a polar plunge. Please be prepared to provide the cash. 😂👍🏽
 
-### Wednesday Afternoon
-> Spelunking coordinated by Johnner and Lora.  The Mortensen's frequent through the California corridor.  On each pass we have been wanting to visit the [Lake Shasta Caverns](https://lakeshastacaverns.clickforward.com/).   This is highly recommended by all locals and the trip include bus, boat ride, and cave adventure.   
+### Wednesday Afternoon (John and Lora)
+> Spelunking.  The Mortensen's frequent through the California corridor.  On each pass we have been wanting to visit the [Lake Shasta Caverns](https://lakeshastacaverns.clickforward.com/).   This is highly recommended by all locals and the trip include bus, boat ride, and cave adventure.   
 - Pack up lunch and leave by about 12:45pm
 - 32 minute drive to the event
 - 45 minute pre-checking required, we can Picnic while we wait
@@ -78,11 +78,11 @@
   </div>
 </div>
 
-### Thursday Morning
-> Field Olympics by Taylor and Jake.  Early feedback ... Definitely wiffle ball/softball and volleyball!!!
+### Thursday Morning (Taylor, Jake)
+> Field Olympics.  Early feedback ... Definitely wiffle ball/softball and volleyball!!!
 
-### Thursday Afternoon
-> Boating coordinated by Jared.  In the Eugene days the family had several boating trips at the surrounding lakes.  UJ (Frank's brother) was the center of many of these trips.  Picking up for UJ, Jared is coordinating a boating adventure and will be providing us updates.
+### Thursday Afternoon (Jared)
+> In the Eugene days the family had several boating trips at the surrounding lakes.  UJ (Frank's brother) was the center of many of these trips.  Picking up for UJ, Jared is coordinating a boating adventure and will be providing us updates.
 
 - [Bridge Bay at Shasta Lake](https://bridgebayhouseboats.com/small-boat-rental/ski-boat/)
 
