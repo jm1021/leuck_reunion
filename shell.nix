@@ -26,6 +26,7 @@ in mkShell {
     nodePackages.npm
     nodePackages.ijavascript
     pkgs.rubyPackages.ffi
+    pkgs.rubyPackages.racc
     pkgs.bundler
   ];
 

@@ -25,11 +25,15 @@ sh <(curl -L https://nixos.org/nix/install) # installs nix requires root passwor
 # restart terminal as shell is updated, then cd ~/vscode/project-dir assuming you have it cloned
 
 nix-shell # start shell, aka nix os virtual environment
-code . # activate VSCode
+code . # activate VSCode in current directory
 
 # open vscode terminal
 
-bundle exec jekyll build # run server
+bundle install # only need to run once, first time. If this command doesn't work, delete your github repo, and reclone it. 
+
+bundle exec jekyll serve # run server
+
+bundle exec jekyll serve --livereload --force_polling # if you are on WSL/windows and the above command doesn't work, try this.
 
 ```
 
