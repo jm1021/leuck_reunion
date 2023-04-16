@@ -88,6 +88,7 @@ Group #4:
 > Adventure coordinated individually or by clan.   Crossover with a family or split up in any combination you like, aka Alaska Cruise style.  There are many activities in Shasta Lakes or nearby Redding.  Here are some that are recommended.  Be back for Dinner and the final Family Night.
 
 - [Best Shasta Lakes Trails](https://www.alltrails.com/us/california/shasta-lake)
+- [Burney Falls](https://www.visitcalifornia.com/experience/burney-falls/)
 - [Gold Hills Golfing](https://www.goldhillsgolf.com/)
 - [Turtle Bay Museum](https://www.turtlebay.org/)
 - [Sundial Bridge](https://www.turtlebay.org/sundial-bridge)
