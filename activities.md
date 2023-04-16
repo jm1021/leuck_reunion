@@ -89,6 +89,7 @@ Group #4:
 
 - [Best Shasta Lakes Trails](https://www.alltrails.com/us/california/shasta-lake)
 - [Burney Falls](https://www.visitcalifornia.com/experience/burney-falls/)
+- [Lassen Volcanic National Park](https://www.nps.gov/lavo/index.htm)
 - [Gold Hills Golfing](https://www.goldhillsgolf.com/)
 - [Turtle Bay Museum](https://www.turtlebay.org/)
 - [Sundial Bridge](https://www.turtlebay.org/sundial-bridge)
