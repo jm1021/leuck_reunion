@@ -26,14 +26,16 @@
 | --- | --- | 6pm | Dinner | Dining Room | Angela |
 | --- | --- | 7pm | Family Night | Dining Room | John and Mel |
 | 6/29 | Thursday | 8am | Breakfast | Dining Room | Lisa |
-| --- | --- | 10am | Field Olympics | Field | Jake, Taylor |
-| --- | --- | 12:30pm | Make & Go Lunch | Dining Room | Lisa |
-| --- | --- | 1pm | Boating | [Cars, 25 minutes travel](https://bridgebayhouseboats.com/houseboats/grand-sierra) | Jared |
+ --- | --- | 8am | Boating Group #1| [Cars, 25 minutes travel](https://bridgebayhouseboats.com/houseboats/grand-sierra) | Jared |
+  --- | --- | 10:30am | Boating Group #2 | [Cars, 25 minutes travel](https://bridgebayhouseboats.com/houseboats/grand-sierra) | Jared |
+| --- | --- | 12pm | Make & Go Lunch | Dining Room | Lisa |
+| --- | --- | 1pm | Boating Group #3| [Cars, 25 minutes travel](https://bridgebayhouseboats.com/houseboats/grand-sierra) | Jared |
+| --- | --- | 3:30pm | Boating Group #4| [Cars, 25 minutes travel](https://bridgebayhouseboats.com/houseboats/grand-sierra) | Jared |
 | --- | --- | 6pm | Dinner | Dining Room | Jared and Jeremiah |
 | --- | --- | 7pm | Family Night | Dining Room | John and Mel |
 | 6/30 | Friday | 7:30 | Zumba | Court | Lisa |
 | --- | --- | 8:30am | Breakfast | Dining | Kira |
-| --- | --- | 10am | Family Relays | Field or Court | Johnner |
+| --- | --- | 10am | Field Olympics | Field | Jake, Taylor |
 | --- | --- | 12pm | Make & Go Lunch | Dining Room | Lisa |
 | --- | --- | 1pm | Explore the area | You pick | Self coordinated |
 | --- | --- | 6pm | Dinner | Dining Room | John |

@@ -64,15 +64,20 @@
   </div>
 </div>
 
-### Thursday Morning (Taylor, Jake)
-> Field Olympics.  Early feedback ... Definitely wiffle ball/softball and volleyball!!!
+### Thursday in Shifts (Jared)
+> Boating at the Lake.  In the Eugene days the family had several boating trips at the surrounding lakes.  UJ (Frank's brother) was the center of many of these trips.  Picking up for UJ, Jared is coordinating a boating adventure ...
 
-### Thursday Afternoon (Jared)
-> In the Eugene days the family had several boating trips at the surrounding lakes.  UJ (Frank's brother) was the center of many of these trips.  Picking up for UJ, Jared is coordinating a boating adventure and will be providing us updates.
+The boat Jared has rented is a high performance boat (v8 power) with wakeboard tower that can pull a large wakeboarder, skier, tuber, and is even equipped for wake-surfing.  Jared has a ski/wakeboard rented for all day Thursday 6/29.  
+
+OG families will be asked to contribute $135.  Distribute cost to children and those that participate as you see fit.
+
 
 - [Bridge Bay at Shasta Lake](https://bridgebayhouseboats.com/small-boat-rental/ski-boat/)
 
 ### Friday Morning
+
+### Friday Morning (Taylor, Jake)
+> Field Olympics.  Early feedback ... Definitely wiffle ball/softball and volleyball!!!
 
 ### Friday Afternoon
 > Adventure coordinated individually or by clan.   Crossover with a family or split up in any combination you like, aka Alaska Cruise style.  There are many activities in Shasta Lakes or nearby Redding.  Here are some that are recommended.  Be back for Dinner and the final Family Night.
