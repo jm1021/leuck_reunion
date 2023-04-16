@@ -64,12 +64,17 @@
   </div>
 </div>
 
-### Thursday in Shifts (Jared)
+### Thursday Boating in Shifts (Jared)
 > Boating at the Lake.  In the Eugene days the family had several boating trips at the surrounding lakes.  UJ (Frank's brother) was the center of many of these trips.  Picking up for UJ, Jared is coordinating a boating adventure ...
 
-The boat Jared has rented is a high performance boat (v8 power) with wakeboard tower that can pull a large wakeboarder, skier, tuber, and is even equipped for wake-surfing.  Jared has a ski/wakeboard rented for all day Thursday 6/29.  
+This is a water sport boat.  It has a high performance boat (v8 power) with wakeboard tower that can pull a large wakeboarder, skier, tuber, and is even equipped for wake-surfing.  Jared has a ski/wakeboard rented for all day Thursday 6/29.  
 
-OG families will be asked to contribute $135.  Distribute cost to children and those that participate as you see fit.
+OG families are asked to contribute $135.  This cost can be distributed to those who plan to participate.  We will need to obtain a head count for each of the four sessions.  We want to limit trip to 8 people at a time.
+
+Group #1:
+Group #2:
+Group #3:
+Group #4:
 
 
 - [Bridge Bay at Shasta Lake](https://bridgebayhouseboats.com/small-boat-rental/ski-boat/)
