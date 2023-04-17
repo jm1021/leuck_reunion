@@ -31,16 +31,16 @@
 | Jarom | Yes | ? | 1 | None | Mon | Sat |
 | Braden | Yes | ? | 1 | None | Mon | Sat |
 | | | | | |
-| Mathew | ? | ? | 1 | None | Unk | Unk |
+| Mathew | Yes | ? | 1 | None | Unk | Unk |
 | | | | | |
 | Sherri, Drumond | Yes | ? | 2 | None | Mon | Sat |
 | Taylor | Yes | ? | 1 | None | Unk | Unk |
 | Jake | Yes | ? | 1 | None | Unk | Unk |
 | | | | | |
 | Angela, Tye | Yes | ? | 2 | None | Mon | Sat |
-| Bryce | ? | ? | 1 | None | Unk | Unk |
-| Aspen, Brandon | ? | ? | 2 | None | Unk | Unk |
-| Calem | ? | ? | 1 | None | Unk | Unk |
+| Bryce | Yes | ? | 1 | None | Unk | Unk |
+| Aspen, Brandon | Yes | ? | 2 | None | Unk | Unk |
+| Calem | Yes | ? | 1 | None | Unk | Unk |
 | | | | | |
 | Jared, Janice | Yes | ? | 4 | Kelle (15), Naya (13) | Mon | Sat |
 | | | | | |
@@ -48,5 +48,5 @@
 | Isaiah | ? | ? | 1 | None | Unk | Unk |
 | | | | | |
 | Jeremiah, Melissa | Yes | ? | 3 | Liam (11) | Mon | Sat |
-| Annalyce | ? | ? | 1 | None | Unk | Unk |
+| Annalyce | Yes | ? | 1 | None | Unk | Unk |
 | Peyton | Yes | ? | 1 | None | Unk | Unk |
