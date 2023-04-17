@@ -45,7 +45,7 @@
 | Jared, Janice | Yes | ? | 4 | Kelle (15), Naya (13) | Mon | Sat |
 | | | | | |
 | John, Melanie | Yes | ? | 4 | Connor (17), Sophia (14) | Mon | Sat |
-| Isaiah | ? | ? | 1 | None | Unk | Unk |
+| Isaiah | No | ? | 1 | None | Unk | Unk |
 | | | | | |
 | Jeremiah, Melissa | Yes | ? | 3 | Liam (11) | Mon | Sat |
 | Annalyce | Yes | ? | 1 | None | Unk | Unk |
