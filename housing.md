@@ -22,7 +22,7 @@
 | Trent, Yuri | Yes | ? | 5 | Amelia (8), Cruz (6), Gavi (1) | Mon | Sat |
 | Corey | Yes | ? | 1 | - | Mon | Fri |
 | Tiernan | Yes | ? | 1 | - | Mon | Sat |
-| Claire | Yes | ? | 1 | - | Mon | Sat |
+| Claire | Yes | ? | 2 | - | Mon | Sat |
 | | | | | |
 |Lisa-Anne, Chris | Yes | ? | 2 | None | Mon | Sat |
 |Brianna, Forest | Yes | ? | 6 | Sayla (6), Tundra (4), Alora (2), Keelynn (1) | Mon | Sat |
