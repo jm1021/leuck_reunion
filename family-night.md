@@ -67,8 +67,21 @@ Secret Activity Series
 > Surprise activity night #2.  This evening is clearly "above Top Secret", as it appears to be a sequel.  Ironically the leak has an even more clarity  "Something super, super fun!"
 - Perhaps John and Mel may have secrets from each other.
 
+Secret Activity Series
+<div class="row"> <!--- make a new row -->
+  <!-- each column is one-third of width -->
+  <div class="column">
+    <img src="/images/linedancing.jpeg" alt="Bocce" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="/images/karaoke.jpeg" alt="Field" style="width:100%">
+  </div>
+  <div class="column">
+  </div>
+</div>
+
 ### Friday Family Night
 > Friday Night Party
-- Line Dancing, Uncle Johnner
+- Line Dancing, Uncle Johnner [YouTube Play List](https://www.youtube.com/playlist?list=PLIheX7xF3EHDbyJp3voH0cXEbUZzElEKY)
 - Karaoke, Mom and Pop Leuck
 - Have an area for Party Games
