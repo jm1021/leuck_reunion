@@ -71,5 +71,4 @@ Secret Activity Series
 > Friday Night Party
 - Line Dancing, Uncle Johnner
 - Karaoke, Mom and Pop Leuck
-- Dance Dance Dance
-- Rock Band
+- Have an area for Party Games
