@@ -2,10 +2,10 @@
 > Each evening family will meet.  Family nights are intended to build the Leuck family legacy.
 
 ### Leuck Greet
-> Movie, Games, Popcorn.  As we slumber in from our travels, how about an unwinding night?
-- Start with Movie
-- Transition to games
+> Memories, Movie, Games, Popcorn.  As we slumber in from our travels, how about an unwinding night?
 - Mom and Pop welcome, stories about there first family reunions.  Recap of some of the great Leuck get togethers. 
+- Play a Movie
+- Have an area for Games
 
 Trivia, which one is Frank and Judith?  who are the others?
 <div class="row"> <!--- make a new row -->
@@ -24,17 +24,36 @@ Trivia, which one is Frank and Judith?  who are the others?
 ### Tuesday Family Night
 > Family History night.  What better way to unite in reunion spirit then talk about us, explore our similarities and get excited about our differences.  A night of stories on how we all came together as Leuck's, plus some games on our similarities and differences.
 - Learn the "Leuck Song"
-- Kick off with some games to look at our similarities and differences.
-- Originals, plan 5 minute story and introduction on you and your clan.   Props and acting encouraged with your stories.  Stick to the 5 minute time line.
 - Frank and Judith love story
+- Kick off with some games to look at our similarities and differences.
+- Originals, plan 5 minute story and introduction on you and your clan.   Props and acting encouraged with your stories.  Stick to the 5-10 minute time line.
+- Everyone, download FamilyTree so we can make sure you are connected to the Leuck / Sherwood clan.
 - Encores and requests
 - Family prayer, 'Leuck style'
 
+<div class="row"> <!--- make a new row -->
+  <!-- each column is one-third of width -->
+  <div class="column">
+    <img src="/images/FamilyTree.jpeg" alt="Field" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="/images/RelativesAroundMe.jped" alt="Bocce" style="width:100%">
+  </div>
+   <div class="column">
+  </div>
+</div>
+
 ### Wednesday Family Night
-> Something super fun!
+> Surprise activity night. Something super fun!
+- John and Mel are the only ones that know the secrets.
 
 ### Thursday Family Night
-> Something super, super fun!
+> Surprise activity night.  Something super, super fun!
+- John and Mel are the only ones that know the secrets.
 
 ### Friday Family Night
-> Something super, super, super fun!
+> Friday Night Party
+- Line Dancing, Uncle Johnner
+- Karaoke, Mom and Pop Leuck
+- Dance Dance Dance
+- Rock Band
