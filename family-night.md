@@ -44,12 +44,12 @@ Trivia, which one is Frank and Judith?  who are the others?
 </div>
 
 ### Wednesday Family Night
-> Surprise activity night. Something super fun!
+> Surprise activity night #1. This clandestine evening has a Top Secrect classification.  Only leak is that it is "Something super fun!"
 - John and Mel are the only ones that know the secrets.
 
 ### Thursday Family Night
-> Surprise activity night.  Something super, super fun!
-- John and Mel are the only ones that know the secrets.
+> Surprise activity night #2.  This evening is clearly "above Top Secret", as it appears to be a sequel.  Notice the leak has an even more clarity however "Something super, super fun!"
+- Perhaps John and Mel may have secrets from each other on this evening.
 
 ### Friday Family Night
 > Friday Night Party
