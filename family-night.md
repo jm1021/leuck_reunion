@@ -55,7 +55,7 @@ Secret Activity Series
     <img src="/images/topsecret.jpeg" alt="Bocce" style="width:100%">
   </div>
   <div class="column">
-    <img src="/images/confidential.jpeg" alt="Bocce" style="width:100%">
+    <img src="/images/confidential.png" alt="Bocce" style="width:100%">
   </div>
 </div>
 
