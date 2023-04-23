@@ -49,10 +49,10 @@ Secret Activity Series
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
-    <img src="/images/shh.png" alt="Field" style="width:100%">
+    <img src="/images/topsecret.jpeg" alt="Bocce" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/topsecret.jpeg" alt="Bocce" style="width:100%">
+    <img src="/images/shh.png" alt="Field" style="width:100%">
   </div>
   <div class="column">
     <img src="/images/confidential.png" alt="Bocce" style="width:100%">
