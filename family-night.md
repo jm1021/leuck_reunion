@@ -21,6 +21,19 @@ Trivia, which one is Frank and Judith?  who are the others?
   </div>
 </div>
 
+Got FamilyTree App?
+<div class="row"> <!--- make a new row -->
+  <!-- each column is one-third of width -->
+  <div class="column">
+    <img src="/images/FamilyTree.jpeg" alt="Field" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="/images/RelativesAroundMe.jpeg" alt="Bocce" style="width:100%">
+  </div>
+   <div class="column">
+  </div>
+</div>
+
 ### Tuesday Family Night
 > Family History night.  What better way to unite in reunion spirit then talk about us, explore our similarities and get excited about our differences.  A night of stories on how we all came together as Leuck's, plus some games on our similarities and differences.
 - Learn the "Leuck Song"
@@ -31,16 +44,18 @@ Trivia, which one is Frank and Judith?  who are the others?
 - Encores and requests
 - Family prayer, 'Leuck style'
 
-Got App?
+
+Secret Activity Series
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
-    <img src="/images/FamilyTree.jpeg" alt="Field" style="width:100%">
+    <img src="/images/shh.png" alt="Field" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/RelativesAroundMe.jped" alt="Bocce" style="width:100%">
+    <img src="/images/topsecret.jpeg" alt="Bocce" style="width:100%">
   </div>
-   <div class="column">
+  <div class="column">
+    <img src="/images/confidential.jpeg" alt="Bocce" style="width:100%">
   </div>
 </div>
 
@@ -51,20 +66,6 @@ Got App?
 ### Thursday Family Night
 > Surprise activity night #2.  This evening is clearly "above Top Secret", as it appears to be a sequel.  Notice the leak has an even more clarity however "Something super, super fun!"
 - Perhaps John and Mel may have secrets from each other on this evening.
-
-Who knows what the future will bring
-<div class="row"> <!--- make a new row -->
-  <!-- each column is one-third of width -->
-  <div class="column">
-    <img src="/images/shh.png" alt="Field" style="width:100%">
-  </div>
-   <div class="column">
-    <img src="/images/topsecret.jped" alt="Bocce" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/images/confidential.jped" alt="Bocce" style="width:100%">
-  </div>
-</div>
 
 ### Friday Family Night
 > Friday Night Party
