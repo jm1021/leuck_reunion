@@ -64,8 +64,8 @@ Secret Activity Series
 - John and Mel are the only ones that know the secrets.
 
 ### Thursday Family Night
-> Surprise activity night #2.  This evening is clearly "above Top Secret", as it appears to be a sequel.  Notice the leak has an even more clarity however "Something super, super fun!"
-- Perhaps John and Mel may have secrets from each other on this evening.
+> Surprise activity night #2.  This evening is clearly "above Top Secret", as it appears to be a sequel.  Ironically the leak has an even more clarity  "Something super, super fun!"
+- Perhaps John and Mel may have secrets from each other.
 
 ### Friday Family Night
 > Friday Night Party
