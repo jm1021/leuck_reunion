@@ -7,6 +7,7 @@
 - Play a Movie
 - Have an area for Games
 
+
 Trivia, which one is Frank and Judith?  who are the others?
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
@@ -67,7 +68,8 @@ Secret Activity Series
 > Surprise activity night #2.  This evening is clearly "above Top Secret", as it appears to be a sequel.  Ironically the leak has an even more clarity  "Something super, super fun!"
 - Perhaps John and Mel may have secrets from each other.
 
-Secret Activity Series
+
+Let's Party
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
