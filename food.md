@@ -26,7 +26,7 @@
 > Make lunch in the dinning hall.  Pack and Go.  Leave no mess please.  There is option to purchase food at the caverns, there is a picnic area at the site.
 
 
-### Wednesday Dinner - Head Chef Angela (6-7pm)
+### Wednesday Dinner - Head Chef Jared/Jeremiah (6-7pm)
 
 
 ### Thursday Breakfast (8-9:30am)
@@ -34,7 +34,7 @@
 ### Thursday Lunch
 > Make lunch in the dinning hall.  Pack and Go.  Leave no mess please.  There will likely be some down time and extra snacks will be wanted while boating.
 
-### Thursday Dinner - Head Chef Jared/Jeremiah (6-7pm)
+### Thursday Dinner - Head Chef Angela (6-7pm)
 
 
 ### Friday Breakfast (8-9:30am)
