@@ -20,9 +20,9 @@
 | | | | | |
 | Johnner, Lora | Yes | ? | 3 | Shay (14) | Mon | Sat |
 | Trent, Yuri | Yes | ? | 5 | Amelia (8), Cruz (6), Gavi (1) | Mon | Sat |
-| Corey | No | ? | 1 | - | Mon | Fri |
-| Tiernan | No | ? | 1 | - | Mon | Sat |
-| Claire | No | ? | 2 | - | Mon | Sat |
+| Corey | No | ? | 1 | - |  |  |
+| Tiernan | No | ? | 1 | - |  |  |
+| Claire | No | ? | 2 | - |  |  |
 | | | | | |
 |Lisa-Anne, Chris | Yes | ? | 2 | None | Mon | Sat |
 |Brianna, Forest | Yes | ? | 6 | Sayla (6), Tundra (4), Alora (2), Keelynn (1) | Mon | Sat |
