@@ -2,21 +2,53 @@
 > Everything we could think of that will make your stay better.
 
 ### Things to Bring
+> Here is a recommended list of items.
+- Camp Chairs
+- Air Mattress, Bedding (one per OG family)
+- Swimming clothes for pool and lake
+- Water sports equipment, life vest, particularly life vests for youth
+- Water toys for pool and lake
+- Warm clothes for evenings
+- Sports, Hiking, Fishing shoes
+- Beach/Pool towels
+- Bike Helmets, particularly for youth
+- Bikes for youth
+- Favorite games (card or board games)
+- First Aid Kit
+- Sun screen
+- Bug spray
+- Family snacks
+- Desserts or treats to share at night
+- Water or sport drinks for your rooom
 
 
 ### Things Needed
-
+> List of things for assignees to bring.
 | Need | Assigned to: | Note |
 | --- | --- | --- |
 | Rice Cooker/Instapot | Judith, Lisa, Melissa | --- |
+| Igloo/Thermos | Lisa, Sherri, John | --- |
 | Chalkboard/Whiteboard | Sherri | --- |
-|Easel | Sherri | --- |
+| Easel | Sherri | --- |
 | Karoke machine | Frank | --- |
 | Projector | Frank | --- |
 | Volleyball & Net | Jared & Janice | --- |
 | Football Flags | Jared & Janice | --- |
 | Softball/Wiffle Balls, Bats, Bases | Drummond | --- |
 | Cones | Drummond | --- |
+| Kickball | JJ | --- |
+| Spikeball | Jake | --- |
+| Frisbees | Taylor | --- |
+| Basketball | Johnner, Jared | --- |
+| Ball Pump, Needles | Sherri, Jared | --- |
+| Easy Up | Sherri, Jared | --- |
+
+
+
+
+
+
+
 
 
 
