@@ -1,11 +1,12 @@
 ## Family Night
 > Each evening family will meet.  Family nights are intended to build the Leuck family legacy.
 
-### Monday Leuck Greet
+### Monday Leuck Greet by Mom and Pop (Bring a question for Mom and Pop?)
 > Memories, Movie, Games, Popcorn.  As we slumber in from our travels, how about an unwinding night?
-- Mom and Pop welcome, stories about there first family reunions.  Recap of some of the great Leuck get togethers. 
+- Mom and Pop welcome, stories about there first family reunions.  Recap of some of the great Leuck get togethers.  
+- Question and Answers.
 - Play a Movie
-- Have an area for Games
+- Have an area for Board and Card Games
 
 
 Trivia, which one is Frank and Judith?  who are the others?
@@ -35,7 +36,7 @@ Got FamilyTree App?
   </div>
 </div>
 
-### Tuesday Family History
+### Tuesday Family History coordinated by Johnner and Lora
 > Family History night.  What better way to unite in reunion spirit then talk about us, explore our similarities and get excited about our differences.  A night of stories on how we all came together as Leuck's, plus some games on our similarities and differences.
 - Learn the "Leuck Song"
 - Frank and Judith love story
@@ -60,11 +61,11 @@ Secret Activity Series
   </div>
 </div>
 
-### Wednesday Surprise
+### Wednesday Surprise coordinated by John and Mel
 > Surprise activity night #1. This clandestine evening has a Top Secrect classification.  Only leak is that it is "Something super fun!"
 - John and Mel are the only ones that know the secrets.
 
-### Thursday Surprise Sequel
+### Thursday Surprise Sequel coordinated by John and Mel
 > Surprise activity night #2.  This evening is clearly "above Top Secret", as it appears to be a sequel.  Ironically the leak has an even more clarity  "Something super, super fun!"
 - Perhaps John and Mel may have secrets from each other.
 
@@ -82,7 +83,7 @@ Let's Party
   </div>
 </div>
 
-### Friday Night Party
+### Friday Night Party coordinated by Johnner and Kira
 > Time Shake, Rattle and Roll through song and dance.
 - Line Dancing, Uncle Johnner [YouTube Play List](https://www.youtube.com/playlist?list=PLIheX7xF3EHDbyJp3voH0cXEbUZzElEKY)
 - Karaoke, Mom and Pop Leuck

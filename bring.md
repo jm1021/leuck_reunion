@@ -17,6 +17,7 @@
 - Family snacks
 - Desserts or treats to share at night
 - Water or sport drinks for your rooom
+- Electronics and Chargers
 
 
 ### Things Needed
@@ -30,6 +31,7 @@
 | Easel | Sherri | --- |
 | Karoke machine | Frank | Johnner needs this Friday night |
 | Projector | Frank | John, Johnner need this for Family Nights |
+| Bluetooth Speaker | John | Johnner or Kira events that need music |
 | Volleyball & Net | Jared & Janice | --- |
 | Football Flags | Jared & Janice | --- |
 | Softball/Wiffle Balls, Bats, Bases | Drummond | --- |
