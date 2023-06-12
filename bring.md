@@ -23,7 +23,7 @@
 
 
 ### Things Needed
-> List of things for assignees to bring.
+> List of things for assignees to bring to support activities.
 
 | Need | Assigned to: | Note |
 | --- | --- | --- |
