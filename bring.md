@@ -1,8 +1,5 @@
-## Bring This List
+### Bring This List
 > Everything we could think of that will make your stay better.
-
-### Things to Bring
-> Here is a recommended list of items.
 - Camp Chairs
 - Air Mattress, Bedding (one per OG family)
 - Swimming clothes for pool and lake
@@ -23,7 +20,7 @@
 
 
 ### Things Needed
-> List of things for assignees to bring to support activities.
+> A list of things for assignees to bring to support food and activities.
 
 | Need | Assigned to: | Note |
 | --- | --- | --- |
