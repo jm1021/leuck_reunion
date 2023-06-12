@@ -24,6 +24,7 @@
 
 ### Things Needed
 > List of things for assignees to bring.
+
 | Need | Assigned to: | Note |
 | --- | --- | --- |
 | Rice Cooker/Instapot | Judith, Lisa, Melissa | Lisa needs this in kitchen |
