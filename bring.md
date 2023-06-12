@@ -26,12 +26,12 @@
 > List of things for assignees to bring.
 | Need | Assigned to: | Note |
 | --- | --- | --- |
-| Rice Cooker/Instapot | Judith, Lisa, Melissa | --- |
-| Igloo/Thermos | Lisa, Sherri, John | --- |
+| Rice Cooker/Instapot | Judith, Lisa, Melissa | Lisa needs this in kitchen |
+| Igloo/Thermos | Lisa, Sherri, John | Lisa needs this for drink distribution |
 | Chalkboard/Whiteboard | Sherri | --- |
 | Easel | Sherri | --- |
-| Karoke machine | Frank | --- |
-| Projector | Frank | --- |
+| Karoke machine | Frank | Johnner needs this Friday night |
+| Projector | Frank | John, Johnner need this for Family Nights |
 | Volleyball & Net | Jared & Janice | --- |
 | Football Flags | Jared & Janice | --- |
 | Softball/Wiffle Balls, Bats, Bases | Drummond | --- |
