@@ -13,7 +13,7 @@
 | --- | --- | 7pm | Leuck Greet | Dining Room | Frank and Judith |
 | 6/27 | Tuesday | 8am | Breakfast | Dining Room | Lisa |
 | --- | --- | 9:45am | Morning Huddle | Dining Room | Sherri|
-| --- | --- | 10am | Greet Games | Field and Court | Angela |
+| --- | --- | 10am | Greet Games | Field and Court | Angela, Trent, Yuri |
 | --- | --- | 12pm | Make & Go Lunch | Dining Room | Lisa |
 | --- | --- | 2pm | Bike/Hike | Bike Rack | Johnner and Lora |
 | --- | --- | 3pm | Free Time | Your Choice | Self coordinated |

@@ -1,7 +1,7 @@
 ## Planned Activities
 > Group events will occur each afternoon.  These are intended to explore local area attractions and build family bonds.
 
-### Tuesday Morning (Angela, Trent)
+### Tuesday Morning (Angela, Trent, Yuri)
 > Greet Games.  Water bucket game, hula hoop game, water baloon toss, group legged race, water laddle race, and more...
 
 <div class="row"> <!--- make a new row -->
