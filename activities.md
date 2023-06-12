@@ -1,8 +1,8 @@
 ## Planned Activities
 > Group events will occur each afternoon.  These are intended to explore local area attractions and build family bonds.
 
-### Tuesday Morning
-> Greet Games by Johnner and family.  Volleyball, Basketball, and Swimming have been generational sports for the Leuck's.  Early Leuck outings were to Tyler Texas and swimming was an all afternoon event.  At one time, almost all the Leuck's were in Eugene Oregon and many holidays were spent at the Danebo Church playing ball. Later their were reunions at Silver Creek Falls, Mexico, and Wenatchee. So in Leuck tradition, the morning will start with sports and of course socializing.  The theme of the 1st sports activity day will be: play, socialize, eat, rinse, and repeat.
+### Tuesday Morning (Angela)
+> Greet Games.  Volleyball, Basketball, and Swimming have been generational sports for the Leuck's.  Early Leuck outings were to Tyler Texas and swimming was an all afternoon event.  At one time, almost all the Leuck's were in Eugene Oregon and many holidays were spent at the Danebo Church playing ball. Later their were reunions at Silver Creek Falls, Mexico, and Wenatchee. So in Leuck tradition, the morning will start with sports and of course socializing.  The theme of the 1st sports activity day will be: play, socialize, eat, rinse, and repeat.
 - The facility has a field and Volleyball net
 - Half-Court basketball
 - Bocce Ball
@@ -87,8 +87,8 @@ Group #4:
 ### Friday Afternoon
 > Adventure coordinated individually or by clan.   Crossover with a family or split up in any combination you like, aka Alaska Cruise style.  There are many activities in Shasta Lakes or nearby Redding.  Here are some that are recommended.  Be back for Dinner and the final Family Night.
 
-- [Best Shasta Lakes Trails](https://www.alltrails.com/us/california/shasta-lake)
 - [Burney Falls](https://www.visitcalifornia.com/experience/burney-falls/)
+- [Best Shasta Lakes Trails](https://www.alltrails.com/us/california/shasta-lake)
 - [Lassen Volcanic National Park](https://www.nps.gov/lavo/index.htm)
 - [Gold Hills Golfing](https://www.goldhillsgolf.com/)
 - [Turtle Bay Museum](https://www.turtlebay.org/)
