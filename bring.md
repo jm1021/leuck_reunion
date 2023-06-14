@@ -27,7 +27,7 @@
 | --- | --- | --- |
 | Rice Cooker/Instapot | Judith, Lisa, Melissa | Lisa needs this in kitchen |
 | Igloo/Thermos | Lisa, Sherri, John | Lisa needs this for drink distribution |
-| Ice Cream Machines | Lisa, Melissa | --- |
+| Ice Cream Machines | Judith, Lisa, Melissa | --- |
 | Chalkboard/Whiteboard | Sherri | --- |
 | Easel | Sherri | --- |
 | Karoke machine | Frank | Johnner needs this Friday night |
@@ -37,12 +37,13 @@
 | Football Flags | Jared & Janice | --- |
 | Softball/Wiffle Balls, Bats, Bases | Drummond | --- |
 | Cones | Drummond | --- |
-| Kickball | JJ | --- |
+| Soccer Nets & ball | JJ | --- |
 | Spikeball | Jake | --- |
 | Frisbees | Taylor | --- |
 | Basketball | Johnner, Jared | --- |
 | Ball Pump, Needles | Sherri, Jared | --- |
 | Easy Up | Sherri, Jared | --- |
+| Cornhole | JJ, Jared | --- |
 
 
 
