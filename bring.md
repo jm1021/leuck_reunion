@@ -43,7 +43,7 @@
 | Basketball | Johnner, Jared | --- |
 | Ball Pump, Needles | Sherri, Jared | --- |
 | Easy Up | Sherri, Jared | --- |
-| Cornhole | JJ, Jared | --- |
+| Cornhole | JJ | --- |
 
 
 
