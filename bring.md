@@ -27,6 +27,7 @@
 | --- | --- | --- |
 | Rice Cooker/Instapot | Judith, Lisa, Melissa | Lisa needs this in kitchen |
 | Igloo/Thermos | Lisa, Sherri, John | Lisa needs this for drink distribution |
+| Ice Cream Machines | Lisa, Melissa | --- |
 | Chalkboard/Whiteboard | Sherri | --- |
 | Easel | Sherri | --- |
 | Karoke machine | Frank | Johnner needs this Friday night |
