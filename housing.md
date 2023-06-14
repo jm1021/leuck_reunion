@@ -20,9 +20,9 @@
 | | | | | |
 | Johnner, Lora | Yes | Birch Queen | 3 | Shay (14) | Mon | Sat |
 | Trent, Yuri | Yes | Birch Queen (double) | 5 | Amelia (8), Cruz (6), Gavi (1) | Mon | Sat |
-| Corey | No | ? | 1 | - |  |  |
-| Tiernan | No | ? | 1 | - |  |  |
-| Claire | No | ? | 2 | - |  |  |
+| Corey | No | NA | 1 | - |  |  |
+| Tiernan | No | NA | 1 | - |  |  |
+| Claire | No | NA | 2 | - |  |  |
 | | | | | |
 |Lisa-Anne, Chris | Yes | Birch Primary | 2 | None | Mon | Sat |
 |Brianna, Forest | Yes | Alpine Bunk/Twin | 6 | Sayla (6), Tundra (4), Alora (2), Keelynn (1) | Mon | Sat |
@@ -45,7 +45,7 @@
 | Jared, Janice | Yes | River Primary | 4 | Kelle (15), Naya (13) | Mon | Sat |
 | | | | | |
 | John, Melanie | Yes | Cedar Queen | 4 | Connor (17), Sophia (14) | Mon | Sat |
-| Isaiah | No | ? | 1 | None | Unk | Unk |
+| Isaiah | No | NA | 1 | None | Unk | Unk |
 | | | | | |
 | Jeremiah, Melissa | Yes | Dogwood Queen | 3 | Liam (11) | Mon | Sat |
 | Annalyce | Yes | Cedar Bunk/Twin Rm 1 | 1 | None | Unk | Unk |
