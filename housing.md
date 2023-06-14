@@ -31,7 +31,7 @@
 | Jarom | Yes | Rec Room | 1 | None | Mon | Sat |
 | Braden | Yes | Rec Room | 1 | None | Mon | Sat |
 | | | | | |
-| Mathew | Yes | Dogwood Futon | 1 | None | Unk | Unk |
+| Mathew | Yes | Dogwood Futon | 1 | None | Mon | Sat |
 | | | | | |
 | Sherri, Drumond | Yes | Cedar Queen | 2 | None | Mon | Sat |
 | Taylor | Yes | Cedar Bunk/Twin Rm 1 | 1 | None | Unk | Unk |
@@ -46,8 +46,8 @@
 | | | | | |
 | John, Melanie | Yes | Cedar Queen | 3 | Sophia (14) | Mon | Sat |
 | Isaiah | No | NA | 1 | None | Unk | Unk |
-| Connor | Yes | Cedar Bunk/Twin Rm 2 | 1 | None | Unk | Unk |
+| Connor | Yes | Cedar Bunk/Twin Rm 2 | 1 | None | Mon | Sat |
 | | | | | |
 | Jeremiah, Melissa | Yes | Dogwood Queen | 3 | Liam (11) | Mon | Sat |
-| Annalyce | Yes | Cedar Bunk/Twin Rm 1 | 1 | None | Unk | Unk |
-| Peyton | Yes | Cedar Bunk/Twin Rm 1 | 1 | None | Unk | Unk |
+| Annalyce | Yes | Cedar Bunk/Twin Rm 1 | 1 | None | Mon | Sat |
+| Peyton | Yes | Cedar Bunk/Twin Rm 1 | 1 | None | Mon | Sat |
