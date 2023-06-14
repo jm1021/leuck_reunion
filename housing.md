@@ -39,7 +39,7 @@
 | | | | | |
 | Angela, Tye | Yes | River Queen | 2 | None | Mon | Sat |
 | Bryce | Yes | River Hammock | 1 | None | Unk | Unk |
-| Aspen, Brandon | Yes | ? | 2 | None | Unk | Unk |
+| Aspen, Brandon | Yes | River Tent | 2 | None | Unk | Unk |
 | Calem | Yes | River Hide-a-Bed | 1 | None | Unk | Unk |
 | | | | | |
 | Jared, Janice | Yes | River Primary | 4 | Kelle (15), Naya (13) | Mon | Sat |
