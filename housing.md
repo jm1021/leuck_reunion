@@ -44,8 +44,9 @@
 | | | | | |
 | Jared, Janice | Yes | River Primary | 4 | Kelle (15), Naya (13) | Mon | Sat |
 | | | | | |
-| John, Melanie | Yes | Cedar Queen | 4 | Connor (17), Sophia (14) | Mon | Sat |
+| John, Melanie | Yes | Cedar Queen | 3 | Sophia (14) | Mon | Sat |
 | Isaiah | No | NA | 1 | None | Unk | Unk |
+| Connor | Yes | Cedar Bunk/Twin Rm 2 | 1 | None | Unk | Unk |
 | | | | | |
 | Jeremiah, Melissa | Yes | Dogwood Queen | 3 | Liam (11) | Mon | Sat |
 | Annalyce | Yes | Cedar Bunk/Twin Rm 1 | 1 | None | Unk | Unk |
