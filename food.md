@@ -34,7 +34,7 @@
 > Lunches will be an assortment of sandwich fixings, a variety of chips, pasta salad and watermelon.  Be sure to fill your water bottle before we leave for the lake.    
 
 ### Dinner (6-7pm)
-> Grill Day: Hambergers, hot dogs, chicken thighs and a Ceasar salad. Dessert to be determined.
+> Grill Day: Hamburgers, hot dogs, chicken thighs and a Ceasar salad. Dessert to be determined.
 
 ### THURSDAY - Head Chef Angela
 ### Breakfast (8-9:30am)
