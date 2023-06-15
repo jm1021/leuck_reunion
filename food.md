@@ -52,9 +52,9 @@
 ### FRIDAY - Head Chef Jared/Jeremiah
 ### Breakfast (8-9:30am)
 > Cereal Day:
-   -- Grits with toppings: butter & brown sugar or bacon & cheese
-   -- Oatmeal with toppings: granola, cranberries, brown sugar, fruit, and milk  
-   -- Cold cereal - two kinds to be determiend during shopping
+   - Grits with toppings: butter & brown sugar or bacon & cheese
+   - Oatmeal with toppings: granola, cranberries, brown sugar, fruit, and milk  
+   - Cold cereal - two kinds to be determiend during shopping
 
 ### Lunch (12 pm)
 > Lunches will be an assortment of sandwich fixings, a variety of chips, and fruit/veggies.  Bring your water bottle to refill for the day's activities.  
