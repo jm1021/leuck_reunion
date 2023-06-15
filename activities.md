@@ -18,7 +18,7 @@
 </div>
 
 ### Tuesday Afternoon (Johnner)
-> Hike, Bike and Fish.   There are 11 miles of trails and water around campus.   We will go on an adventure and explore the surroundings toward the Dam.
+> Hike, Bike and Fish.   There are 17 miles of trails along Sacramento River all the way to Redding in one direction, the other direction it is 1 mile to the base of the Dam.   Hikers can explore the surroundings toward the Dam.  Bikers can go in either direction.  There are about 30 bikes on site and all size.
 
 - The facility has a field and Volleyball net
 - Half-Court basketball
@@ -96,3 +96,4 @@ Group #4:
 - [Sundial Bridge](https://www.turtlebay.org/sundial-bridge)
 - [Cascade Theater](https://cascadetheatre.org/)
 - [Waterworks Park](https://www.waterworkspark.com/)
+- Whiskey Town a lake area in town
