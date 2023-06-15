@@ -46,7 +46,7 @@
 >  ** Eat in the main hall, outside or at your housing. Pick up your trash and leave no mess in dinning hall or grounds. 
 
 ### Dinner (6-7pm)
-> Hawaiian Haystacks: creammy chicken over rice with your choice of toppings: cheese, pineapple, olives, green onions, peas, tomatoes, chow mein noodles and coconut. Dessert to be determined.
+> Hawaiian Haystacks: creamy chicken over rice with your choice of toppings: cheese, pineapple, olives, green onions, peas, tomatoes, chow mein noodles and coconut. Dessert to be determined.
 
 ### FRIDAY - Head Chef Jared/Jeremiah
 ### Breakfast (8-9:30am)
