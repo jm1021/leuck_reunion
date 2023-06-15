@@ -29,14 +29,16 @@
 | Rice Cooker/Instapot | Judith, Lisa, Melissa | Lisa needs this in kitchen |
 | Ice Cream Machines | Judith, Lisa, Melissa | --- |
 
-| Activity | Assigned to: | Note |
+| Activity/Indoor | Assigned to: | Note |
+| --- | --- | --- |
 | Chalkboard/Whiteboard | Sherri | Events and Information |
 | Easel | Sherri | Events and Information |
 | Karoke machine | Frank | Johnner needs this Friday night |
 | Projector | Frank | John, Johnner need this for Family Nights |
 | Bluetooth Speaker | Johnner | Johnner or Kira events that need music |
 
-| Outdoor/Sports | Assigned to: | Note |
+| Sports/Outdoor | Assigned to: | Note |
+| --- | --- | --- |
 | Easy Up (aka Canopy) | Sherri, Jared | Lake and Camp Shade |
 | Volleyball & Net | Jared & Janice | --- |
 | Football Flags | Jared & Janice | --- |
