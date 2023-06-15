@@ -61,7 +61,7 @@
 >  ** Eat in the main hall, outside or at your housing. Pick up your trash and leave no mess in dinning hall or grounds. 
 
 ### Dinner (6-7pm)
-> Cafe Rio Style Pulled pork carnitas with black beans, rice, and lime cilantro dressing
+> Cafe Rio style pulled pork carnitas with black beans, rice, and lime cilantro dressing
 
 ### SATURDAY - Head Chef Lisa 
 ### Breakfast (8-9:30am)
