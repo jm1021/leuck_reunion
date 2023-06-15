@@ -30,8 +30,10 @@
 ### Breakfast (8-9:30am)
 > Breakfast casseroles: Egg and Bacon (2), Egg and Sausage (2), and Blueberry/Cream Cheese French Toast (1)
 
-### Lunch (12 pm) (SHASTA LAKE DAY)
-> Lunches will be an assortment of sandwich fixings, a variety of chips, pasta salad and watermelon.  Be sure to fill your water bottle before we leave for the lake.    
+### Lunch (12 pm)
+> Lunches will be an assortment of sandwich fixings, a variety of chips, and fruit/veggies.  Bring your water bottle to refill for the day's activities.  
+>  ** Pack and Go (baggies and paper bags available).  
+>  ** Eat in the main hall, outside or at your housing. Pick up your trash and leave no mess in dinning hall or grounds. 
 
 ### Dinner (6-7pm)
 > Grill Day: Hamburgers, hot dogs, chicken thighs and a Ceasar salad. Dessert to be determined.
@@ -40,10 +42,8 @@
 ### Breakfast (8-9:30am)
 > Biscuits & Gravy and Egg Muffin cups
 
-### Lunch (12 pm)
-> Lunches will be an assortment of sandwich fixings, a variety of chips, and fruit/veggies.  Bring your water bottle to refill for the day's activities.  
->  ** Pack and Go (baggies and paper bags available).  
->  ** Eat in the main hall, outside or at your housing. Pick up your trash and leave no mess in dinning hall or grounds. 
+### Lunch (12 pm) (SHASTA LAKE DAY)
+> Lunches will be an assortment of sandwich fixings, a variety of chips, pasta salad and watermelon.  Be sure to fill your water bottle before we leave for the lake.    
 
 ### Dinner (6-7pm)
 > Hawaiian Haystacks: creamy chicken over rice with your choice of toppings: cheese, pineapple, olives, green onions, peas, tomatoes, chow mein noodles and coconut. Dessert to be determined.
