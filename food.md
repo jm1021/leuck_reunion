@@ -7,46 +7,60 @@
 4.  **Dinner** will be available at 6pm each evening. It is strongly encouraged to eat in the hall all together so that you do not miss the 7pm Family Night directly afterwards.
 - **NOTE** - The menu for the day will be posted in the dinning hall each morning. Snacks will be left out after lunch and will be put away before dinner prep.
     
-### Monday Dinner - Head Chef Lisa (6 - 7pm)
-> Please note that you are responsible for your own breakfast and lunch on Monday.
+### MONDAY - Head Chf Lisa 
+### Breakfast & Lunch
+> Your On Your Own (YO-YO)
 
-> Lasagna (2 meat with red sauce & 1 veggie with white sauce), with salad and garlic bread.
+### Dinner (6 - 7pm)
+> Lasagna (2 meat with red sauce & 1 veggie with white sauce), with salad and garlic bread. Dessert to be determined.
 
-### Tuesday Breakfast (8-9:30am)
-> Breakfast casseroles will be served in the main hall. Three different kinds: Egg and Bacon (2), Egg and Sausage (2), and Blueberry/Cream Cheese French Toast (1)
+### TUESDAY - Head Chef John
+### Breakfast (8-9:30am)
+> Breakfast casseroles: Egg and Bacon (2), Egg and Sausage (2), and Blueberry/Cream Cheese French Toast (1)
 
-### Tuesday Lunch (12 pm)
-> Make lunch in the dinning hall.  Pack and Go (baggies and bags available).  Eat outside or at your housing, pick up trash and leave no mess in dinning hall or grounds.
+### Lunch (12 pm)
+> Lunches will be an assortment of sandwich fixings, a variety of chips, and fruit/veggies.  Bring your water bottle to refill for the day's activities.  
+>      Pack and Go (baggies and paper bags available).  
+>      Eat in the main hall, outside or at your housing. Pick up your trash and leave no mess in dinning hall or grounds. 
 
-> Lunches will be an assortment of sandwich fixings, a variety of chips, and fruit/veggies.  Bring your water bottle to refill for the day's activities.
+### Dinner (6-7pm)
+> Build your own (homemade) meatball subs with tortelini salad and chocolate chip cookies.
 
-### Tuesday Dinner - Head Chef Sherri (6-7pm)
+### WEDNESDAY - Head Chef Sherri
+### Breakfast (8-9:30am)
 
+### Lunch (12 pm)
+> Lunches will be an assortment of sandwich fixings, a variety of chips, and fruit/veggies.  Bring your water bottle to refill for the day's activities.  
+>      Pack and Go (baggies and paper bags available).  
+>      Eat in the main hall, outside or at your housing. Pick up your trash and leave no mess in dinning hall or grounds. 
 
-### Wednesday Breakfast (8-9:30am)
-
-### Wednesday Lunch
-> Make lunch in the dinning hall.  Pack and Go.  Leave no mess please.  There is option to purchase food at the caverns, there is a picnic area at the site.
-
-
-### Wednesday Dinner - Head Chef Jared/Jeremiah (6-7pm)
-
-
-### Thursday Breakfast (8-9:30am)
-
-### Thursday Lunch
-> Make lunch in the dinning hall.  Pack and Go.  Leave no mess please.  There will likely be some down time and extra snacks will be wanted while boating.
-
-### Thursday Dinner - Head Chef Angela (6-7pm)
+### Dinner (6-7pm)
 
 
-### Friday Breakfast (8-9:30am)
+### THURSDAY - Head Chef Angela
+### Breakfast (8-9:30am)
 
-### Friday Lunch
-> Make lunch in the dinning hall.  Pack and Go.  There are lots of places to explore and eat in the community of Shasta Lakes and Redding.
+### Lunch (12 pm)
+> Lunches will be an assortment of sandwich fixings, a variety of chips, and fruit/veggies.  Bring your water bottle to refill for the day's activities.  
+>      Pack and Go (baggies and paper bags available).  
+>      Eat in the main hall, outside or at your housing. Pick up your trash and leave no mess in dinning hall or grounds. 
 
-### Friday Dinner - Head Chef John (6-7pm)
+### Dinner (6-7pm)
 
 
-### Saturday Breakfast (8-9:30am)
+### FRIDAY - Head Chef Jared/Jeremiah
+### Breakfast (8-9:30am)
 
+### Lunch (12 pm)
+> Lunches will be an assortment of sandwich fixings, a variety of chips, and fruit/veggies.  Bring your water bottle to refill for the day's activities.  
+>      Pack and Go (baggies and paper bags available).  
+>      Eat in the main hall, outside or at your housing. Pick up your trash and leave no mess in dinning hall or grounds. 
+
+### Dinner (6-7pm)
+
+
+### SATURDAY - Head Chef Lisa 
+### Breakfast (8-9:30am)
+
+### Lunch (11:30 pm)
+> LEFTOVERS - lets clean out the fridge and share between families for their trip homeward. 
