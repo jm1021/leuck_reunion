@@ -66,6 +66,6 @@
 
 ### SATURDAY - Head Chef Lisa 
 ### Breakfast (8-9:30am)
-> Pancakes and fix your own waffles with all the toppings: fruit, whipped topping, syrup.  Any leftover breakfast items will also be available. 
+> Pancakes and fix your own waffles with all the toppings: fruit, whipped topping, syrup.  We will also serve any leftover breakfast items still available. 
 ### Lunch (11:30 pm)
 > LEFTOVERS - lets clean out the fridge and share between families for their trip homeward. 
