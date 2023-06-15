@@ -45,11 +45,12 @@
 | Softball/Wiffle Balls, Bats, Bases | Drummond | --- |
 | Cones | Drummond | --- |
 | Soccer Nets & ball | JJ | --- |
+| Cornhole | JJ | --- |
 | Spikeball | Jake | --- |
 | Frisbees | Taylor | --- |
+| Cherry/Kickball | Johnner | --- |
 | Basketball | Johnner, Jared | --- |
 | Ball Pump, Needles | Sherri, Jared | --- |
-| Cornhole | JJ | --- |
 
 
 
