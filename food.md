@@ -50,8 +50,7 @@
 
 ### FRIDAY - Head Chef Jared/Jeremiah
 ### Breakfast (8-9:30am)
-> Cereal Day
-> 
+> Cereal Day:
 >   -- Grits with toppings: butter & brown sugar or bacon & cheese
 >   -- Oatmeal with toppings: granola, cranberries, brown sugar, fruit, and milk  
 >   -- Cold cereal - two kinds to be determiend during shopping
@@ -62,7 +61,7 @@
 >  ** Eat in the main hall, outside or at your housing. Pick up your trash and leave no mess in dinning hall or grounds. 
 
 ### Dinner (6-7pm)
-> Cafe Rio Style Pulled pork carnitas and black beans with lime cilantro dressing
+> Cafe Rio Style Pulled pork carnitas with black beans, rice, and lime cilantro dressing
 
 ### SATURDAY - Head Chef Lisa 
 ### Breakfast (8-9:30am)
