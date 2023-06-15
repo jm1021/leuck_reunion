@@ -30,10 +30,8 @@
 ### Breakfast (8-9:30am)
 > Breakfast casseroles: Egg and Bacon (2), Egg and Sausage (2), and Blueberry/Cream Cheese French Toast (1)
 
-### Lunch (12 pm)
-> Lunches will be an assortment of sandwich fixings, a variety of chips, and fruit/veggies.  Bring your water bottle to refill for the day's activities.  
->      Pack and Go (baggies and paper bags available).  
->      Eat in the main hall, outside or at your housing. Pick up your trash and leave no mess in dinning hall or grounds. 
+### Lunch (12 pm) (SHASTA LAKE DAY)
+> Lunches will be an assortment of sandwich fixings, a variety of chips, pasta salad and watermelon.  Be sure to fill your water bottle before we leave for the lake.    
 
 ### Dinner (6-7pm)
 > Grill Day: Hambergers, hot dogs, chicken thighs and a Ceasar salad. Dessert to be determined.
@@ -44,25 +42,29 @@
 
 ### Lunch (12 pm)
 > Lunches will be an assortment of sandwich fixings, a variety of chips, and fruit/veggies.  Bring your water bottle to refill for the day's activities.  
-> -- Pack and Go (baggies and paper bags available).  
-> -- Eat in the main hall, outside or at your housing. Pick up your trash and leave no mess in dinning hall or grounds. 
+>  ** Pack and Go (baggies and paper bags available).  
+>  ** Eat in the main hall, outside or at your housing. Pick up your trash and leave no mess in dinning hall or grounds. 
 
 ### Dinner (6-7pm)
-
+> Hawaiian Haystacks: creammy chicken over rice with your choice of toppings: cheese, pineapple, olives, green onions, peas, tomatoes, chow mein noodles and coconut. Dessert to be determined.
 
 ### FRIDAY - Head Chef Jared/Jeremiah
 ### Breakfast (8-9:30am)
+> Cereal Day
+>   -- Grits with toppings: butter & brown sugar or bacon & cheese
+>   -- Oatmeal with toppings: granola, cranberries, brown sugar, fruit, and milk
+>   -- Cold cereal - two kinds to be determiend during shopping
 
 ### Lunch (12 pm)
 > Lunches will be an assortment of sandwich fixings, a variety of chips, and fruit/veggies.  Bring your water bottle to refill for the day's activities.  
->      Pack and Go (baggies and paper bags available).  
->      Eat in the main hall, outside or at your housing. Pick up your trash and leave no mess in dinning hall or grounds. 
+>  ** Pack and Go (baggies and paper bags available).  
+>  ** Eat in the main hall, outside or at your housing. Pick up your trash and leave no mess in dinning hall or grounds. 
 
 ### Dinner (6-7pm)
-
+> Cafe Rio Style Pulled pork carnitas and black beans with lime cilantro dressing
 
 ### SATURDAY - Head Chef Lisa 
 ### Breakfast (8-9:30am)
-
+> Pancakes and fix your own waffles with all the toppings: fruit, whipped topping, syrup.  Any leftover breakfast items will also be available. 
 ### Lunch (11:30 pm)
 > LEFTOVERS - lets clean out the fridge and share between families for their trip homeward. 
