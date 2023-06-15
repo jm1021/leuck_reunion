@@ -53,7 +53,9 @@
 > Cereal Day
 > 
 >   -- Grits with toppings: butter & brown sugar or bacon & cheese
+>   
 >   -- Oatmeal with toppings: granola, cranberries, brown sugar, fruit, and milk
+>   
 >   -- Cold cereal - two kinds to be determiend during shopping
 
 ### Lunch (12 pm)
