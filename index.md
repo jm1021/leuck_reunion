@@ -43,7 +43,7 @@
 | --- | --- | 12pm | Make & Go Lunch | Dining Room | Lisa |
 | --- | --- | 1pm | Explore the area | You pick | Self coordinated |
 | --- | --- | 6pm | Dinner | Dining Room | John |
-| --- | --- | 7pm | Family Night | Dining Room |John and Mel |
+| --- | --- | 7pm | Family Night | Dining Room |Johnner, Lora, and Kira |
 | 7/1 | Saturday | 8am | Breakfast | Dining Room | Lisa |
 | --- | --- | 9am | Pack car lunches | Ride Home | As Needed |
 | --- | --- | 10am | Cleanup Move out | Each House | All |
