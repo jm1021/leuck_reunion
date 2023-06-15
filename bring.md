@@ -23,16 +23,21 @@
 ### Things Needed
 > A list of things for assignees to bring to support food and activities.
 
-| Need | Assigned to: | Note |
+| Kitchen/Food | Assigned to: | Note |
 | --- | --- | --- |
 | Rice Cooker/Instapot | Judith, Lisa, Melissa | Lisa needs this in kitchen |
 | Igloo/Thermos | Lisa, Sherri, John | Lisa needs this for drink distribution |
 | Ice Cream Machines | Judith, Lisa, Melissa | --- |
+
+| Activity | Assigned to: | Note |
 | Chalkboard/Whiteboard | Sherri | --- |
 | Easel | Sherri | --- |
 | Karoke machine | Frank | Johnner needs this Friday night |
 | Projector | Frank | John, Johnner need this for Family Nights |
-| Bluetooth Speaker | John | Johnner or Kira events that need music |
+| Bluetooth Speaker | Johnner | Johnner or Kira events that need music |
+
+| Outdoor Sports | Assigned to: | Note |
+| Easy Up (aka Canopy) | Sherri, Jared | Lake and Camp Shade |
 | Volleyball & Net | Jared & Janice | --- |
 | Football Flags | Jared & Janice | --- |
 | Softball/Wiffle Balls, Bats, Bases | Drummond | --- |
@@ -42,7 +47,6 @@
 | Frisbees | Taylor | --- |
 | Basketball | Johnner, Jared | --- |
 | Ball Pump, Needles | Sherri, Jared | --- |
-| Easy Up | Sherri, Jared | --- |
 | Cornhole | JJ | --- |
 
 
