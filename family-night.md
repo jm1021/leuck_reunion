@@ -83,8 +83,8 @@ Let's Party
   </div>
 </div>
 
-### Friday Night Party coordinated by Johnner and Kira
+### Friday Night Party coordinated by Johnner, Lora, and Kira
 > Time Shake, Rattle and Roll through song and dance.
 - Line Dancing, Uncle Johnner [YouTube Play List](https://www.youtube.com/playlist?list=PLIheX7xF3EHDbyJp3voH0cXEbUZzElEKY)
-- Karaoke, Mom and Pop Leuck
+- Karaoke, equipment from Mom and Pop Leuck
 - Have an area for Party Games
