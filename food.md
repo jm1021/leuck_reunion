@@ -9,13 +9,15 @@
     
 ### Monday Dinner - Head Chef Lisa (6 - 7pm)
 > Please note that you are responsible for your own breakfast and lunch on Monday.
+
 > Lasagna (2 meat with red sauce & 1 veggie with white sauce), with salad and garlic bread.
 
 ### Tuesday Breakfast (8-9:30am)
-> Breakfast casseroles will be served in the main hall. Three different kinds: Egg and Bacon, Egg and Sausage, and Blueberry/Cream Cheese French Toast
+> Breakfast casseroles will be served in the main hall. Three different kinds: Egg and Bacon (2), Egg and Sausage (2), and Blueberry/Cream Cheese French Toast (1)
 
 ### Tuesday Lunch (12 pm)
 > Make lunch in the dinning hall.  Pack and Go (baggies and bags available).  Eat outside or at your housing, pick up trash and leave no mess in dinning hall or grounds.
+
 > Lunches will be an assortment of sandwich fixings, a variety of chips, and fruit/veggies.  Bring your water bottle to refill for the day's activities.
 
 ### Tuesday Dinner - Head Chef Sherri (6-7pm)
