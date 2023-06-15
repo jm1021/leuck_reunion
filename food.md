@@ -46,7 +46,8 @@
 > Lunches will be an assortment of sandwich fixings, a variety of chips, pasta salad and watermelon.  Be sure to fill your water bottle before we leave for the lake.    
 
 ### Dinner (6-7pm)
-> Hawaiian Haystacks: creamy chicken over rice with your choice of toppings: cheese, pineapple, olives, green onions, peas, tomatoes, chow mein noodles and coconut. Dessert to be determined.
+> Hawaiian Haystacks: creamy chicken over rice with your choice of toppings: cheese, pineapple, olives, green onions, peas, tomatoes, chow mein noodles and coconut. 
+> Dessert will be the ice cream contest. Mom and Dad will be our judges.  
 
 ### FRIDAY - Head Chef Jared/Jeremiah
 ### Breakfast (8-9:30am)
