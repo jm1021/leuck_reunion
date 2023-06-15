@@ -21,9 +21,9 @@
 
 
 ### Things Needed
-> A list of things for assignees to bring to support food and activities.
+> A list of things for assignees to bring to support food, activities, and sports.
 
-| Kitchen/Food | Assigned to: | Note |
+| Food/Kitchen | Assigned to: | Note |
 | --- | --- | --- |
 | Igloo/Thermos | Lisa, Sherri, John | Lisa needs this for drink distribution |
 | Rice Cooker/Instapot | Judith, Lisa, Melissa | Lisa needs this in kitchen |
