@@ -6,17 +6,20 @@
 - Water sports equipment, life vest, particularly life vests for youth
 - Water toys for pool and lake
 - Warm clothes for evenings
-- Sports, Hiking, Fishing shoes
+- Sports, Hiking, Fishing, Water shoes
 - Beach/Pool towels
 - Bike Helmets, particularly for youth
 - Bikes for youth
+- Roasting sticks for smores
 - Favorite games (card or board games)
+- Fishing Pole
 - First Aid Kit
 - Sun screen
 - Bug spray
-- Family snacks
+- personal family snacks
 - Desserts or treats to share at night
 - Water or sport drinks for your rooom
+- Hydro or reusable water bottle
 - Electronics and Chargers
 
 
@@ -41,12 +44,12 @@
 | --- | --- | --- |
 | Easy Up (aka Canopy) | Sherri, Jared | Lake and Camp Shade |
 | Volleyball & Net | Jared & Janice | --- |
-| Football Flags | Jared & Janice | --- |
-| Softball/Wiffle Balls, Bats, Bases | Drummond | --- |
-| Cones | Drummond | --- |
+| Football & Flags | Jared & Janice | --- |
+| Softball/Wiffle Balls, Bats, Bases | Drumond | --- |
+| Cones | Drumond & JJ | --- |
 | Soccer Nets & ball | JJ | --- |
-| Cornhole | JJ | --- |
-| Spikeball | Jake | --- |
+| Cornhole | JJ, Drumond & Angela | --- |
+| Spikeball | Jake & Angela | --- |
 | Frisbees | Taylor | --- |
 | Cherry/Kickball | Johnner | --- |
 | Basketball | Johnner, Jared | --- |
