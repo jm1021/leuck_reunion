@@ -1,7 +1,7 @@
 ## Planned Activities
 > Group events will occur each afternoon.  These are intended to explore local area attractions and build family bonds.
 
-### Tuesday Morning (Angela, Trent, Yuri)
+### Monday Afternoon (Angela, Trent, Yuri)
 > Greet Games.  Water bucket game, hula hoop game, water baloon toss, group legged race, water laddle race, and more...
 
 <div class="row"> <!--- make a new row -->
@@ -17,7 +17,7 @@
   </div>
 </div>
 
-### Tuesday Afternoon (Johnner)
+### Tuesday Morning (Johnner)
 > Hike, Bike and Fish.   There are 17 miles of trails along Sacramento River all the way to Redding in one direction, the other direction it is 1 mile to the base of the Dam.   Hikers can explore the surroundings toward the Dam.  Bikers can go in either direction.  There are about 30 bikes on site and all size.
 
 - The facility has a field and Volleyball net
@@ -52,6 +52,9 @@
 - 2 hours of bus, boat and hike
 - Options for Gem Stone mining on site
 
+- Signup for [Spelunking](https://docs.google.com/spreadsheets/d/1DG2pXYpcFmysnyeXLmkx3bjLDe-HM7WSaMXAhVXYS3s/edit#gid=0)
+
+
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
@@ -72,10 +75,7 @@ This is a water sport boat.  It has a high performance boat (v8 power) with wake
 
 OG families are asked to contribute $135.  This cost can be distributed to those who plan to participate.  We will need to obtain a head count for each of the four sessions.  We want to limit trip to 8 people at a time.
 
-Group #1:
-Group #2:
-Group #3:
-Group #4:
+Signup for [Boating](https://docs.google.com/spreadsheets/d/1DG2pXYpcFmysnyeXLmkx3bjLDe-HM7WSaMXAhVXYS3s/edit#gid=0)
 
 
 - [Bridge Bay at Shasta Lake](https://bridgebayhouseboats.com/small-boat-rental/ski-boat/)
@@ -88,12 +88,15 @@ Group #4:
 ### Friday Afternoon
 > Adventure coordinated individually or by clan.   Crossover with a family or split up in any combination you like, aka Alaska Cruise style.  There are many activities in Shasta Lakes or nearby Redding.  Here are some that are recommended.  Be back for Dinner and the final Family Night.
 
-- [Burney Falls](https://www.visitcalifornia.com/experience/burney-falls/)
-- [Best Shasta Lakes Trails](https://www.alltrails.com/us/california/shasta-lake)
-- [Lassen Volcanic National Park](https://www.nps.gov/lavo/index.htm)
-- [Gold Hills Golfing](https://www.goldhillsgolf.com/)
-- [Turtle Bay Museum](https://www.turtlebay.org/)
-- [Sundial Bridge](https://www.turtlebay.org/sundial-bridge)
-- [Cascade Theater](https://cascadetheatre.org/)
-- [Waterworks Park](https://www.waterworkspark.com/)
-- Whiskey Town a lake area in town
+- Local Activities, leave at 11am
+  - [Turtle Bay Museum](https://www.turtlebay.org/)
+  - [Sundial Bridge](https://www.turtlebay.org/sundial-bridge)
+  - [Gold Hills Golfing](https://www.goldhillsgolf.com/)
+  - [Cascade Theater](https://cascadetheatre.org/)
+  - [Waterworks Park](https://www.waterworkspark.com/)
+  - [Whiskey Town and Lake](https://www.nps.gov/whis/planyourvisit/things2do.htm)
+
+- Akk day, leave at 8am to be back at 6pm
+  - [Burney Falls](https://www.visitcalifornia.com/experience/burney-falls/)
+  - [Lassen Volcanic National Park](https://www.nps.gov/lavo/index.htm)
+

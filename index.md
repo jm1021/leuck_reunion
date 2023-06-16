@@ -8,18 +8,19 @@
 - ***NO PETS***
 
 ## Schedule
+Signup for [Spelunking, Boating](https://docs.google.com/spreadsheets/d/1DG2pXYpcFmysnyeXLmkx3bjLDe-HM7WSaMXAhVXYS3s/edit#gid=0)
 
 | Date | Day | Time | Event | Meet At | Coordinator |
 | --- | --- | --- | --- | --- | --- |
-| 6/26 | Monday | 3pm | Check in | Shasta Lakes | Frank and Judith |
+| 6/26 | Monday | 1pm | Check in | Shasta Lakes | Frank and Judith |
+| --- | --- | 3pm | Greet Games | Field, Court, Pool | Angela, Trent, Yuri |
 | --- | --- | 6pm | Dinner | Dining Room | Lisa |
 | --- | --- | 7pm | Leuck Greet | Dining Room | Frank and Judith |
 | 6/27 | Tuesday | 8am | Breakfast | Dining Room | Lisa |
 | --- | --- | 9:45am | Morning Huddle | Dining Room | Sherri|
-| --- | --- | 10am | Greet Games | Field and Court | Angela, Trent, Yuri |
+| --- | --- | 10am | Bike/Hike | Bike Rack | Johnner and Lora |
 | --- | --- | 12pm | Make & Go Lunch | Dining Room | Lisa |
-| --- | --- | 2pm | Bike/Hike | Bike Rack | Johnner and Lora |
-| --- | --- | 3pm | Free Time | Your Choice | Self coordinated |
+| --- | --- | 1pm | Free Time | Your Choice | Self coordinated |
 | --- | --- | 6pm | Dinner | Dining Room | Sherri |
 | --- | --- | 7pm | Family Night | Dining Room | Frank, Judith, Johnner, Lora |
 | 6/28 | Wednesday | 7:30 | Zumba | Court | Kira |
