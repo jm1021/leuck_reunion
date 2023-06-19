@@ -28,7 +28,7 @@
 |Brianna, Forest | Yes | Alpine Bunk/Twin | 6 | Sayla (6), Tundra (4), Alora (2), Keelynn (1) | Mon | Sat |
 |Kira, Spencer | Yes | Alpine Queen | 5 | Georgianna (6), James (5), Arabella (2), Hunter (NB) | Mon | Sat |
 |Ethan, Layne | Yes | Birch Queen | 6 | William (6), Lily (4), Adeline (2), Eleanor (1) | Mon | Sat |
-| Jarom | Yes | Rec Room | 1 | None | Mon | Sat |
+| Jarom | No | Rec Room | 1 | None | Mon | Sat |
 | Braden | Yes | Rec Room | 1 | None | Mon | Sat |
 | | | | | |
 | Mathew | Yes | Dogwood Futon | 1 | None | Mon | Sat |
