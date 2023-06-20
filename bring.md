@@ -36,8 +36,8 @@
 | Chalkboard/Whiteboard | Sherri | Events and Information |
 | Easel | Sherri | Events and Information |
 | Karoke machine | Frank | Johnner needs this Friday night |
-| Projector | Frank | John, Johnner need this for Family Nights |
-| Bluetooth Speaker | Johnner | Johnner or Kira events that need music |
+| Projector | Frank & Trnet| John, Johnner need this for Family Nights |
+| Bluetooth Speaker | Johnner & Trent | Johnner or Kira events that need music |
 | Pack n play or stroller | JJ/Melissa | for the little ones |
 
 | Sports/Outdoor | Assigned to: | Note |
@@ -55,7 +55,7 @@
 | Basketball | Johnner, Jared | --- |
 | Ball Pump, Needles | Sherri, Jared | --- |
 | Hola Hoops | Judith | Lawn games |
-| Boating tubes | Angela | Boat Day |
+| Boating tubes | Angela & Trent| Boat Day |
 
 
 
