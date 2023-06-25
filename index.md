@@ -33,11 +33,11 @@ Signup for [Spelunking, Boating](https://docs.google.com/spreadsheets/d/1DG2pXYp
 | --- | --- | 6pm | Dinner | Dining Room | Jared and Jeremiah |
 | --- | --- | 7pm | Family Night | Dining Room | John and Mel |
 | 6/29 | Thursday | 8am | Breakfast | Dining Room | Lisa |
- --- | --- | 8am | Boating Group #1| [Cars, 25 minutes travel](https://bridgebayhouseboats.com/houseboats/grand-sierra) | Jared |
-  --- | --- | 10:30am | Boating Group #2 | [Cars, 25 minutes travel](https://bridgebayhouseboats.com/houseboats/grand-sierra) | Jared |
+ --- | --- | 9am | Boating Group #1| [Cars, 25 minutes travel](https://bridgebayhouseboats.com/houseboats/grand-sierra) | Jared |
+  --- | --- | 11:30am | Boating Group #2 | [Cars, 25 minutes travel](https://bridgebayhouseboats.com/houseboats/grand-sierra) | Jared |
 | --- | --- | 12pm | Make & Go Lunch | Dining Room | Lisa |
-| --- | --- | 1pm | Boating Group #3| [Cars, 25 minutes travel](https://bridgebayhouseboats.com/houseboats/grand-sierra) | Jared |
-| --- | --- | 3:30pm | Boating Group #4| [Cars, 25 minutes travel](https://bridgebayhouseboats.com/houseboats/grand-sierra) | Jared |
+| --- | --- | 2pm | Boating Group #3| [Cars, 25 minutes travel](https://bridgebayhouseboats.com/houseboats/grand-sierra) | Jared |
+| --- | --- | 4:30pm | Boating Group #4| [Cars, 25 minutes travel](https://bridgebayhouseboats.com/houseboats/grand-sierra) | Jared |
 | --- | --- | 6pm | Dinner | Dining Room | Angela |
 | --- | --- | 7pm | Family Night | Dining Room | John and Mel |
 | 6/30 | Friday | 7:30 | Zumba | Court | Lisa |
