@@ -20,7 +20,7 @@ Signup for [Spelunking, Boating](https://docs.google.com/spreadsheets/d/1DG2pXYp
 | --- | --- | 9:45am | Morning Huddle | Dining Room | Sherri|
 | --- | --- | 10am | Bike/Hike | Bike Rack | Johnner and Lora |
 | --- | --- | 12pm | Make & Go Lunch | Dining Room | Lisa |
-| --- | --- | 1pm | Free Time | Your Choice | Self coordinated |
+| --- | --- | 1pm | Free Time / Prep Time | Your Choice | Self coordinated |
 | --- | --- | 6pm | Dinner | Dining Room | Sherri |
 | --- | --- | 7pm | Family Night | Dining Room | Frank, Judith, Johnner, Lora |
 | 6/28 | Wednesday | 7:30 | Zumba | Court | Kira |
