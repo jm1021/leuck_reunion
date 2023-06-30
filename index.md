@@ -53,3 +53,15 @@ Signup for [Spelunking, Boating](https://docs.google.com/spreadsheets/d/1DG2pXYp
 | --- | --- | 9am | Pack car lunches | Ride Home | As Needed |
 | --- | --- | 10am | Cleanup Move out | Each House | All |
 | --- | --- | 11am | Check Out | Travel Home | Your it |
+
+## Cleanup
+Remember to leave things as good or better than when you came.  Identify any broken items so that we can inform owners, so they can repair them for next guests.  
+
+- Leave linens on bed's
+- Put all soiled towels in laundry basket
+- Put full trh outside so that we can pick them up
+- Pick up all trash outside
+- Put any moved items back where they were
+- Put last minute dishes in dishwasher
+- It is appreciated that you leave houses as nice as when you arrived.  Clean up kitches, bathrooms, and all dirty areas.
+- Don't forget you personal items.
