@@ -5,6 +5,8 @@ Markdown Format takes entire column
 ![](images/Dad_Mom_2019.jpg)
 
 ## Reunion/Multi-Family Pictures
+[Bend 2011](https://www.youtube.com/watch?app=desktop&v=dTrXlesLM00), [Alaska 2018](https://www.youtube.com/watch?app=desktop&v=weIJHePf2TU)
+
 <div class="row"> <!--- make a new row -->
   <!-- each column is one-third of width -->
   <div class="column">
